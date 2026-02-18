@@ -1,0 +1,1001 @@
+Customer_ID,Age,Country,Subscription_Plan,Monthly_Fee,Tenure_Months,Payment_Method,Login_Frequency,Support_Tickets,Feature_Usage_Score,Contract_Type,Churn_Status
+CUST_0001,56,Germany,Pro,2794,21,PayPal,6,3,75.62,Monthly,Churned
+CUST_0002,39,UK,Basic,1356,42,UPI,5,4,31.65,Monthly,Active
+CUST_0003,31,Canada,Pro,2863,7,Debit Card,8,0,58.44,Annual,Active
+CUST_0004,27,Australia,Enterprise,8911,14,PayPal,4,2,79.8,Monthly,Churned
+CUST_0005,32,Germany,Basic,1356,24,Credit Card,3,7,59.48,Monthly,Churned
+CUST_0006,41,USA,Pro,3395,35,PayPal,9,0,59.62,Monthly,Active
+CUST_0007,49,Germany,Pro,3778,43,UPI,9,2,64.36,Monthly,Active
+CUST_0008,50,Australia,Basic,782,13,Debit Card,4,0,37.08,Monthly,Active
+CUST_0009,49,Australia,Pro,2636,12,Credit Card,5,1,52.27,Monthly,Active
+CUST_0010,36,Canada,Pro,2576,32,PayPal,9,1,67.13,Monthly,Active
+CUST_0011,20,USA,Pro,3455,3,Credit Card,10,2,50.58,Annual,Active
+CUST_0012,19,Canada,Enterprise,7723,32,UPI,9,2,86.75,Monthly,Active
+CUST_0013,46,Australia,Basic,1377,35,PayPal,10,1,41.95,Monthly,Active
+CUST_0014,62,Canada,Basic,1275,34,UPI,8,2,45.25,Annual,Active
+CUST_0015,54,Australia,Enterprise,4301,35,Credit Card,6,3,99.0,Monthly,Active
+CUST_0016,40,UK,Basic,654,26,Debit Card,17,0,31.81,Monthly,Churned
+CUST_0017,42,Canada,Basic,689,22,PayPal,6,3,31.46,Monthly,Active
+CUST_0018,57,Canada,Pro,1768,42,Debit Card,5,4,83.93,Monthly,Churned
+CUST_0019,42,India,Pro,2396,39,UPI,6,1,83.42,Monthly,Churned
+CUST_0020,22,Canada,Basic,717,21,Debit Card,6,2,50.53,Annual,Active
+CUST_0021,21,Australia,Pro,1835,28,UPI,12,0,72.48,Monthly,Churned
+CUST_0022,52,India,Basic,589,26,UPI,7,3,32.76,Monthly,Active
+CUST_0023,52,Canada,Basic,1477,32,Debit Card,12,0,30.0,Annual,Churned
+CUST_0024,24,Canada,Enterprise,6782,19,Credit Card,5,2,98.52,Annual,Active
+CUST_0025,31,Australia,Pro,2656,29,UPI,5,0,75.8,Annual,Churned
+CUST_0026,44,Australia,Pro,3040,38,PayPal,13,1,67.97,Monthly,Churned
+CUST_0027,45,USA,Pro,2394,1,PayPal,9,1,72.72,Annual,Active
+CUST_0028,53,Canada,Pro,3055,47,Credit Card,10,2,52.64,Monthly,Active
+CUST_0029,45,UK,Basic,540,27,Debit Card,14,0,30.4,Monthly,Active
+CUST_0030,49,Canada,Enterprise,9898,25,UPI,15,1,87.82,Annual,Active
+CUST_0031,18,Germany,Pro,3323,31,PayPal,10,0,51.64,Annual,Active
+CUST_0032,19,Germany,Pro,3650,34,UPI,12,2,54.77,Monthly,Active
+CUST_0033,19,Canada,Basic,1246,11,Debit Card,3,1,43.19,Monthly,Churned
+CUST_0034,20,UK,Enterprise,4666,19,UPI,6,1,90.03,Monthly,Churned
+CUST_0035,43,Canada,Pro,2644,30,Credit Card,2,1,74.07,Monthly,Active
+CUST_0036,64,India,Basic,1225,28,Credit Card,8,0,29.44,Monthly,Active
+CUST_0037,32,Australia,Basic,1130,10,PayPal,7,3,35.09,Monthly,Active
+CUST_0038,61,UK,Basic,924,26,PayPal,5,1,33.5,Monthly,Active
+CUST_0039,47,Canada,Basic,1322,3,Credit Card,9,4,53.69,Annual,Churned
+CUST_0040,21,Germany,Basic,724,12,PayPal,7,1,49.45,Monthly,Active
+CUST_0041,30,Germany,Pro,3119,37,PayPal,1,3,58.91,Annual,Active
+CUST_0042,31,Australia,Enterprise,7530,12,UPI,10,3,98.15,Annual,Active
+CUST_0043,57,UK,Basic,1190,33,UPI,11,1,44.96,Annual,Active
+CUST_0044,56,India,Pro,3704,33,UPI,8,2,55.31,Monthly,Active
+CUST_0045,46,Germany,Basic,1343,27,PayPal,11,3,50.88,Annual,Active
+CUST_0046,53,India,Enterprise,6935,42,Debit Card,4,2,70.69,Monthly,Churned
+CUST_0047,53,Australia,Basic,1324,40,PayPal,10,3,33.29,Annual,Active
+CUST_0048,42,Australia,Basic,1209,33,Credit Card,5,2,21.36,Monthly,Active
+CUST_0049,24,Canada,Pro,2489,19,PayPal,11,1,76.25,Monthly,Churned
+CUST_0050,20,India,Basic,957,34,Credit Card,5,1,55.9,Annual,Churned
+CUST_0051,64,Germany,Pro,2787,32,Debit Card,10,1,53.48,Annual,Active
+CUST_0052,35,Australia,Enterprise,7594,2,Credit Card,7,2,77.78,Monthly,Active
+CUST_0053,40,India,Pro,2020,45,UPI,11,0,68.96,Monthly,Active
+CUST_0054,29,UK,Basic,1373,27,PayPal,10,1,25.6,Monthly,Active
+CUST_0055,43,India,Basic,1278,36,UPI,8,2,31.55,Monthly,Active
+CUST_0056,51,India,Pro,3024,40,PayPal,11,1,62.05,Annual,Active
+CUST_0057,64,Germany,Basic,1091,8,UPI,10,4,54.92,Monthly,Active
+CUST_0058,25,Canada,Enterprise,8822,31,UPI,7,0,93.86,Annual,Active
+CUST_0059,40,Australia,Basic,1026,4,PayPal,8,5,52.16,Annual,Active
+CUST_0060,61,UK,Pro,3271,10,Debit Card,4,2,84.44,Annual,Active
+CUST_0061,18,Australia,Enterprise,6632,24,PayPal,11,2,73.28,Annual,Churned
+CUST_0062,60,India,Basic,717,3,Debit Card,13,1,21.47,Annual,Active
+CUST_0063,28,Germany,Enterprise,6682,9,UPI,5,1,73.89,Monthly,Active
+CUST_0064,43,Canada,Pro,1536,13,UPI,13,1,57.71,Monthly,Churned
+CUST_0065,59,Canada,Basic,1166,7,Credit Card,6,1,50.11,Monthly,Active
+CUST_0066,29,Canada,Basic,723,27,PayPal,13,2,23.36,Monthly,Active
+CUST_0067,39,UK,Pro,2385,26,Credit Card,8,3,62.11,Monthly,Churned
+CUST_0068,51,India,Enterprise,4038,29,UPI,7,3,85.81,Monthly,Churned
+CUST_0069,20,India,Basic,1069,15,PayPal,9,1,55.76,Monthly,Churned
+CUST_0070,46,USA,Basic,1192,3,Credit Card,2,2,56.47,Monthly,Churned
+CUST_0071,39,India,Pro,1616,8,PayPal,3,2,70.66,Monthly,Active
+CUST_0072,50,Germany,Enterprise,7496,22,UPI,4,1,71.19,Monthly,Active
+CUST_0073,50,USA,Pro,3268,33,PayPal,8,1,62.27,Annual,Active
+CUST_0074,26,India,Basic,915,12,PayPal,13,0,31.95,Monthly,Churned
+CUST_0075,62,India,Pro,2249,8,Debit Card,4,2,61.79,Monthly,Churned
+CUST_0076,52,UK,Basic,1449,33,Debit Card,12,3,21.23,Annual,Active
+CUST_0077,29,Australia,Basic,1029,15,Credit Card,8,1,45.26,Monthly,Active
+CUST_0078,56,USA,Basic,629,17,Credit Card,9,0,23.81,Monthly,Active
+CUST_0079,27,Germany,Pro,2780,8,PayPal,5,4,65.73,Annual,Active
+CUST_0080,37,Canada,Basic,1141,37,Debit Card,6,0,24.92,Monthly,Active
+CUST_0081,41,Canada,Pro,1625,29,UPI,6,2,83.31,Annual,Active
+CUST_0082,18,India,Pro,2881,22,Credit Card,5,3,80.38,Annual,Active
+CUST_0083,18,Canada,Basic,1475,5,UPI,9,0,53.07,Annual,Active
+CUST_0084,21,UK,Pro,3944,19,UPI,11,1,77.92,Monthly,Churned
+CUST_0085,31,Germany,Pro,2526,8,Credit Card,5,4,68.98,Annual,Active
+CUST_0086,62,UK,Pro,2514,15,Credit Card,6,1,81.39,Monthly,Active
+CUST_0087,52,UK,Pro,1605,18,Credit Card,10,2,71.36,Annual,Active
+CUST_0088,62,UK,Pro,3688,21,PayPal,10,3,71.06,Annual,Active
+CUST_0089,22,USA,Basic,982,33,Credit Card,3,2,54.77,Monthly,Active
+CUST_0090,42,Australia,Enterprise,9922,18,Credit Card,9,0,87.91,Monthly,Active
+CUST_0091,20,Australia,Basic,852,41,Debit Card,9,1,29.07,Monthly,Active
+CUST_0092,55,Germany,Pro,3901,8,UPI,9,3,65.62,Monthly,Active
+CUST_0093,22,Canada,Pro,2771,30,UPI,8,1,68.9,Monthly,Churned
+CUST_0094,44,Canada,Basic,948,23,UPI,12,1,32.22,Monthly,Active
+CUST_0095,32,Germany,Basic,1077,35,UPI,12,1,26.15,Monthly,Churned
+CUST_0096,42,Australia,Basic,672,32,Debit Card,6,0,41.98,Annual,Active
+CUST_0097,48,Canada,Basic,966,25,PayPal,6,0,27.67,Monthly,Churned
+CUST_0098,33,India,Pro,2108,39,UPI,8,2,67.83,Monthly,Churned
+CUST_0099,39,Germany,Enterprise,9302,27,PayPal,10,0,82.48,Monthly,Churned
+CUST_0100,28,Australia,Basic,807,26,Credit Card,10,3,30.64,Monthly,Active
+CUST_0101,57,India,Basic,1214,8,PayPal,9,0,39.82,Annual,Churned
+CUST_0102,41,Australia,Basic,516,21,UPI,11,0,58.26,Monthly,Active
+CUST_0103,25,USA,Pro,2420,15,PayPal,6,4,84.16,Monthly,Active
+CUST_0104,49,India,Pro,2749,15,PayPal,6,3,54.48,Monthly,Active
+CUST_0105,49,Germany,Basic,538,41,PayPal,7,2,53.86,Monthly,Active
+CUST_0106,19,UK,Basic,962,31,Debit Card,8,0,23.67,Monthly,Active
+CUST_0107,54,UK,Basic,861,8,Credit Card,9,1,42.32,Annual,Active
+CUST_0108,39,USA,Pro,1813,17,Credit Card,8,3,51.24,Monthly,Active
+CUST_0109,57,Germany,Basic,701,4,UPI,7,1,44.78,Monthly,Active
+CUST_0110,36,Germany,Basic,559,46,Credit Card,8,2,32.88,Monthly,Active
+CUST_0111,64,Germany,Enterprise,5019,33,Credit Card,9,1,78.98,Monthly,Churned
+CUST_0112,62,Canada,Pro,3400,19,Credit Card,9,3,77.39,Annual,Churned
+CUST_0113,61,USA,Basic,1042,25,Credit Card,4,2,56.9,Monthly,Active
+CUST_0114,59,UK,Pro,2081,45,Credit Card,7,2,52.29,Monthly,Active
+CUST_0115,38,Canada,Basic,991,14,PayPal,10,1,51.51,Monthly,Active
+CUST_0116,50,UK,Pro,2072,43,Debit Card,6,4,80.1,Annual,Active
+CUST_0117,41,USA,Pro,2817,10,PayPal,9,1,78.22,Monthly,Active
+CUST_0118,57,Australia,Enterprise,8976,25,Debit Card,7,0,70.82,Monthly,Churned
+CUST_0119,29,Australia,Pro,1975,37,Debit Card,13,1,76.51,Annual,Active
+CUST_0120,60,Germany,Basic,1489,19,Credit Card,12,4,44.61,Annual,Churned
+CUST_0121,46,USA,Basic,985,19,Debit Card,11,4,41.63,Annual,Active
+CUST_0122,39,USA,Pro,3174,27,Credit Card,6,3,79.53,Annual,Active
+CUST_0123,42,India,Basic,642,35,UPI,10,1,28.51,Monthly,Churned
+CUST_0124,25,USA,Basic,1158,14,Debit Card,3,1,59.07,Annual,Active
+CUST_0125,20,Germany,Pro,3831,7,PayPal,8,1,50.63,Monthly,Churned
+CUST_0126,31,Canada,Pro,3262,14,Debit Card,8,2,57.92,Monthly,Active
+CUST_0127,38,Germany,Pro,2848,37,PayPal,10,4,58.83,Annual,Active
+CUST_0128,37,UK,Pro,1678,7,Credit Card,8,2,58.31,Monthly,Active
+CUST_0129,44,UK,Basic,879,29,PayPal,9,2,38.79,Monthly,Churned
+CUST_0130,59,Australia,Basic,881,24,PayPal,7,1,31.11,Monthly,Active
+CUST_0131,61,UK,Pro,2083,45,Debit Card,5,1,81.77,Monthly,Churned
+CUST_0132,64,Australia,Enterprise,9777,30,PayPal,11,3,73.43,Monthly,Churned
+CUST_0133,20,UK,Pro,2128,38,Debit Card,11,1,81.59,Monthly,Active
+CUST_0134,53,India,Pro,1874,38,PayPal,14,1,68.99,Annual,Active
+CUST_0135,37,Canada,Basic,701,28,UPI,4,4,45.83,Monthly,Churned
+CUST_0136,22,India,Basic,843,11,Debit Card,6,1,40.22,Monthly,Active
+CUST_0137,54,Australia,Enterprise,7158,18,UPI,10,3,83.32,Monthly,Churned
+CUST_0138,38,Canada,Basic,1032,39,Debit Card,9,2,58.66,Annual,Churned
+CUST_0139,22,Germany,Basic,663,27,Debit Card,11,4,56.28,Monthly,Churned
+CUST_0140,50,Canada,Pro,3954,11,Debit Card,12,2,63.53,Monthly,Churned
+CUST_0141,22,Australia,Pro,3224,16,UPI,13,1,82.42,Monthly,Churned
+CUST_0142,53,USA,Pro,3548,13,PayPal,9,1,52.42,Monthly,Churned
+CUST_0143,30,Canada,Enterprise,9409,19,Debit Card,6,0,70.18,Monthly,Churned
+CUST_0144,51,UK,Basic,1403,27,Credit Card,5,1,31.7,Annual,Churned
+CUST_0145,40,Canada,Enterprise,9575,20,PayPal,10,1,86.64,Annual,Churned
+CUST_0146,29,Canada,Basic,940,29,Debit Card,5,2,20.01,Monthly,Active
+CUST_0147,36,India,Pro,3197,36,PayPal,8,3,60.97,Monthly,Active
+CUST_0148,54,Canada,Enterprise,4522,47,Credit Card,10,2,98.52,Annual,Churned
+CUST_0149,54,USA,Pro,3578,9,Credit Card,10,3,75.19,Annual,Active
+CUST_0150,52,Canada,Pro,3596,10,Credit Card,8,3,53.9,Annual,Active
+CUST_0151,43,UK,Pro,1618,47,Debit Card,6,1,77.09,Monthly,Churned
+CUST_0152,24,India,Basic,1137,16,UPI,10,0,42.83,Monthly,Churned
+CUST_0153,45,Canada,Basic,623,26,Debit Card,13,3,38.95,Monthly,Active
+CUST_0154,18,Canada,Basic,1063,47,Debit Card,6,1,33.49,Annual,Active
+CUST_0155,38,Canada,Enterprise,7645,18,PayPal,11,1,94.21,Annual,Active
+CUST_0156,43,UK,Pro,2855,25,Debit Card,4,4,59.08,Annual,Active
+CUST_0157,25,USA,Basic,507,36,Debit Card,7,0,50.92,Monthly,Active
+CUST_0158,59,Australia,Pro,3251,40,PayPal,6,0,78.28,Monthly,Active
+CUST_0159,44,Germany,Enterprise,6176,29,UPI,4,1,71.35,Annual,Active
+CUST_0160,46,Germany,Pro,2605,1,UPI,5,0,72.98,Monthly,Active
+CUST_0161,62,Germany,Basic,1079,11,PayPal,13,1,43.26,Monthly,Churned
+CUST_0162,63,Germany,Basic,1335,35,UPI,11,1,31.81,Monthly,Active
+CUST_0163,23,India,Basic,1149,39,UPI,3,3,28.02,Annual,Active
+CUST_0164,40,Australia,Pro,2368,27,Debit Card,8,2,74.94,Monthly,Churned
+CUST_0165,26,USA,Basic,979,17,PayPal,12,4,21.7,Annual,Churned
+CUST_0166,30,Australia,Basic,839,3,UPI,10,1,59.14,Annual,Active
+CUST_0167,51,Australia,Basic,1399,29,PayPal,10,0,42.36,Annual,Churned
+CUST_0168,21,Germany,Pro,3037,37,Debit Card,8,0,80.5,Monthly,Churned
+CUST_0169,29,Canada,Pro,2016,14,Debit Card,6,1,75.64,Annual,Active
+CUST_0170,24,Germany,Pro,3049,29,Debit Card,5,1,77.33,Annual,Churned
+CUST_0171,58,Germany,Pro,2991,27,Debit Card,8,1,64.8,Annual,Churned
+CUST_0172,58,USA,Basic,607,35,Credit Card,6,2,38.32,Monthly,Active
+CUST_0173,18,India,Basic,1484,15,UPI,5,0,26.19,Annual,Active
+CUST_0174,24,India,Basic,663,10,Credit Card,6,1,57.59,Annual,Active
+CUST_0175,45,UK,Enterprise,8739,9,Debit Card,9,1,83.03,Monthly,Churned
+CUST_0176,60,USA,Basic,795,3,Credit Card,10,1,34.19,Annual,Churned
+CUST_0177,63,UK,Basic,572,43,Credit Card,11,2,28.25,Annual,Active
+CUST_0178,28,UK,Pro,2728,7,UPI,7,1,60.54,Monthly,Churned
+CUST_0179,38,USA,Pro,3850,35,PayPal,6,0,73.98,Annual,Active
+CUST_0180,63,Australia,Enterprise,7935,46,Debit Card,8,6,93.59,Monthly,Active
+CUST_0181,30,Germany,Pro,1994,45,Debit Card,1,3,67.13,Monthly,Churned
+CUST_0182,60,USA,Pro,1998,10,UPI,6,1,58.45,Annual,Active
+CUST_0183,60,India,Pro,1518,40,Debit Card,9,1,73.76,Annual,Active
+CUST_0184,22,USA,Pro,2530,39,UPI,4,3,77.05,Monthly,Active
+CUST_0185,18,Australia,Basic,1097,44,Debit Card,8,3,53.73,Annual,Active
+CUST_0186,57,Australia,Enterprise,4731,45,Debit Card,7,3,86.37,Monthly,Churned
+CUST_0187,48,India,Pro,2397,9,Credit Card,4,5,73.16,Monthly,Active
+CUST_0188,61,Canada,Pro,2082,28,Debit Card,10,3,73.19,Monthly,Active
+CUST_0189,47,India,Enterprise,6347,16,Debit Card,10,1,92.37,Monthly,Active
+CUST_0190,30,Canada,Pro,3109,15,PayPal,10,5,73.17,Monthly,Active
+CUST_0191,46,Germany,Basic,576,2,UPI,11,1,53.02,Annual,Active
+CUST_0192,38,USA,Pro,3494,35,Debit Card,1,3,50.48,Monthly,Churned
+CUST_0193,20,Germany,Pro,3685,4,Credit Card,14,3,63.67,Monthly,Active
+CUST_0194,35,Germany,Basic,574,5,Credit Card,7,1,26.69,Monthly,Active
+CUST_0195,63,UK,Basic,903,33,UPI,13,1,47.42,Monthly,Active
+CUST_0196,47,UK,Enterprise,6387,16,Debit Card,10,5,96.43,Monthly,Churned
+CUST_0197,29,USA,Pro,2424,11,PayPal,6,3,52.98,Monthly,Churned
+CUST_0198,40,Canada,Pro,1609,29,Credit Card,5,2,72.07,Monthly,Active
+CUST_0199,40,USA,Basic,530,28,UPI,6,2,32.1,Annual,Active
+CUST_0200,59,India,Basic,725,13,Credit Card,6,3,38.34,Monthly,Active
+CUST_0201,26,USA,Basic,927,7,UPI,11,5,47.48,Monthly,Active
+CUST_0202,47,USA,Enterprise,5666,34,Credit Card,14,1,75.49,Monthly,Active
+CUST_0203,21,Australia,Basic,1138,20,UPI,6,6,44.01,Annual,Active
+CUST_0204,19,India,Pro,2412,13,Credit Card,5,2,74.64,Annual,Active
+CUST_0205,48,India,Basic,883,33,Debit Card,14,0,21.4,Monthly,Active
+CUST_0206,50,Canada,Basic,1232,40,Credit Card,5,2,54.26,Monthly,Active
+CUST_0207,57,India,Enterprise,8763,6,PayPal,9,4,87.92,Monthly,Churned
+CUST_0208,45,USA,Basic,709,33,PayPal,6,1,59.67,Annual,Active
+CUST_0209,51,Australia,Basic,1419,42,Credit Card,8,3,38.84,Monthly,Active
+CUST_0210,21,India,Basic,682,25,Debit Card,10,3,24.28,Monthly,Churned
+CUST_0211,61,Germany,Pro,3487,21,UPI,7,1,70.35,Monthly,Active
+CUST_0212,62,UK,Pro,2084,2,UPI,5,3,81.35,Annual,Churned
+CUST_0213,48,USA,Pro,3219,31,Debit Card,7,3,62.16,Monthly,Active
+CUST_0214,34,Canada,Pro,3176,17,PayPal,9,0,52.96,Annual,Churned
+CUST_0215,40,Germany,Pro,3573,26,Credit Card,8,3,82.8,Monthly,Active
+CUST_0216,49,Germany,Enterprise,6091,17,Debit Card,10,2,94.44,Monthly,Active
+CUST_0217,20,Germany,Basic,1291,31,PayPal,14,4,58.75,Annual,Active
+CUST_0218,35,UK,Basic,1389,37,PayPal,12,0,40.56,Monthly,Active
+CUST_0219,30,Australia,Enterprise,9634,12,Debit Card,8,1,99.93,Monthly,Active
+CUST_0220,42,USA,Pro,2516,30,UPI,4,1,74.16,Annual,Active
+CUST_0221,34,USA,Basic,1075,42,UPI,8,2,31.11,Monthly,Churned
+CUST_0222,43,UK,Basic,782,8,PayPal,8,2,42.64,Monthly,Churned
+CUST_0223,29,USA,Basic,1162,10,PayPal,12,2,28.45,Monthly,Active
+CUST_0224,47,Canada,Basic,970,43,Debit Card,10,2,52.11,Annual,Active
+CUST_0225,21,USA,Basic,1301,9,UPI,12,2,21.2,Annual,Active
+CUST_0226,18,USA,Basic,840,26,Credit Card,10,1,51.18,Annual,Churned
+CUST_0227,20,India,Pro,3729,16,PayPal,1,1,71.11,Monthly,Churned
+CUST_0228,59,India,Basic,1344,42,PayPal,7,2,46.45,Monthly,Active
+CUST_0229,51,Canada,Pro,1559,36,Debit Card,8,0,77.21,Monthly,Active
+CUST_0230,31,Australia,Pro,3861,6,UPI,10,1,64.23,Annual,Active
+CUST_0231,31,Germany,Basic,1217,16,Credit Card,11,2,49.15,Monthly,Active
+CUST_0232,63,UK,Basic,1482,13,PayPal,8,0,52.61,Monthly,Churned
+CUST_0233,28,USA,Pro,2065,29,PayPal,6,4,65.54,Annual,Active
+CUST_0234,61,Canada,Pro,3144,39,UPI,6,3,58.99,Monthly,Active
+CUST_0235,43,India,Basic,576,20,Debit Card,6,2,41.65,Monthly,Active
+CUST_0236,59,Germany,Basic,1366,47,UPI,8,1,52.4,Annual,Active
+CUST_0237,21,UK,Basic,804,11,Credit Card,8,1,47.04,Monthly,Churned
+CUST_0238,63,Australia,Basic,592,46,Credit Card,11,3,54.91,Monthly,Churned
+CUST_0239,51,India,Basic,1143,26,Credit Card,3,0,28.35,Monthly,Churned
+CUST_0240,60,Canada,Pro,3369,28,Debit Card,5,4,55.19,Monthly,Active
+CUST_0241,47,India,Basic,589,7,PayPal,10,1,31.08,Annual,Active
+CUST_0242,56,USA,Enterprise,4404,29,Credit Card,5,3,70.39,Monthly,Churned
+CUST_0243,28,Germany,Pro,2221,34,PayPal,13,0,59.26,Annual,Active
+CUST_0244,49,Australia,Pro,2389,29,PayPal,3,5,52.8,Monthly,Churned
+CUST_0245,38,Germany,Basic,635,13,Debit Card,10,2,42.95,Annual,Active
+CUST_0246,43,USA,Pro,1919,43,PayPal,7,0,62.53,Monthly,Active
+CUST_0247,26,India,Basic,967,4,UPI,7,0,43.18,Monthly,Active
+CUST_0248,19,Canada,Pro,1674,47,UPI,12,2,82.29,Annual,Active
+CUST_0249,45,Germany,Pro,3800,37,PayPal,9,0,56.34,Monthly,Active
+CUST_0250,38,UK,Basic,584,1,PayPal,10,1,59.66,Annual,Churned
+CUST_0251,24,Australia,Pro,3887,27,Debit Card,10,1,74.48,Monthly,Churned
+CUST_0252,55,USA,Basic,574,40,Credit Card,3,2,43.39,Monthly,Active
+CUST_0253,42,UK,Basic,1007,34,UPI,10,2,24.87,Monthly,Active
+CUST_0254,60,Australia,Basic,509,18,Credit Card,8,2,40.72,Monthly,Active
+CUST_0255,19,Canada,Pro,2437,31,Debit Card,4,0,75.76,Annual,Churned
+CUST_0256,53,Germany,Pro,2048,9,Debit Card,13,3,58.37,Monthly,Churned
+CUST_0257,35,Germany,Basic,1351,19,PayPal,7,1,49.81,Annual,Active
+CUST_0258,47,India,Basic,1484,40,Debit Card,10,2,56.13,Annual,Active
+CUST_0259,51,UK,Basic,574,14,UPI,11,3,54.46,Annual,Active
+CUST_0260,33,India,Pro,1671,11,PayPal,14,1,56.81,Annual,Active
+CUST_0261,32,India,Basic,526,36,Debit Card,10,1,47.17,Monthly,Churned
+CUST_0262,24,India,Enterprise,7998,25,UPI,7,2,73.66,Annual,Active
+CUST_0263,34,Australia,Basic,1002,21,PayPal,5,2,50.08,Annual,Churned
+CUST_0264,60,Australia,Enterprise,6721,38,UPI,8,2,75.03,Annual,Churned
+CUST_0265,51,USA,Basic,1373,13,UPI,8,1,30.98,Annual,Active
+CUST_0266,24,UK,Pro,1969,4,Debit Card,5,1,77.39,Annual,Active
+CUST_0267,41,Germany,Basic,1339,24,PayPal,5,5,32.31,Monthly,Active
+CUST_0268,34,Canada,Basic,970,46,Credit Card,6,1,26.57,Monthly,Active
+CUST_0269,38,Australia,Enterprise,4491,40,Debit Card,4,7,83.2,Monthly,Active
+CUST_0270,34,India,Pro,3361,41,PayPal,6,3,72.92,Monthly,Churned
+CUST_0271,44,UK,Enterprise,5590,16,Debit Card,12,1,94.87,Annual,Active
+CUST_0272,24,Germany,Pro,2169,17,PayPal,13,1,78.5,Monthly,Churned
+CUST_0273,43,India,Basic,573,43,Credit Card,5,2,49.01,Annual,Active
+CUST_0274,34,Canada,Basic,867,11,PayPal,7,2,43.26,Monthly,Active
+CUST_0275,64,Australia,Enterprise,7276,15,UPI,8,3,77.71,Monthly,Active
+CUST_0276,43,Canada,Basic,807,7,Debit Card,5,0,51.65,Monthly,Active
+CUST_0277,56,India,Basic,1411,7,Credit Card,11,3,39.21,Monthly,Churned
+CUST_0278,45,India,Basic,1435,9,PayPal,11,3,21.57,Monthly,Active
+CUST_0279,47,USA,Basic,1499,19,Debit Card,7,3,38.94,Monthly,Churned
+CUST_0280,38,Canada,Pro,1921,24,UPI,7,0,80.03,Annual,Active
+CUST_0281,18,Canada,Pro,2015,34,PayPal,13,1,56.11,Annual,Churned
+CUST_0282,46,USA,Basic,752,21,PayPal,9,1,46.33,Monthly,Active
+CUST_0283,55,Canada,Basic,765,21,Credit Card,6,2,46.91,Monthly,Active
+CUST_0284,49,USA,Enterprise,4024,34,Debit Card,8,3,73.58,Monthly,Active
+CUST_0285,47,Germany,Basic,1405,11,Credit Card,10,0,36.17,Monthly,Churned
+CUST_0286,35,Germany,Enterprise,4004,13,Credit Card,10,2,74.94,Monthly,Active
+CUST_0287,26,USA,Basic,1496,11,Credit Card,9,2,41.49,Annual,Churned
+CUST_0288,46,Canada,Basic,736,27,UPI,8,1,25.92,Monthly,Active
+CUST_0289,22,Canada,Enterprise,7765,35,PayPal,12,2,88.64,Monthly,Churned
+CUST_0290,29,Germany,Enterprise,7985,36,PayPal,11,2,71.41,Monthly,Churned
+CUST_0291,59,USA,Basic,1363,27,UPI,6,2,34.19,Annual,Churned
+CUST_0292,48,Canada,Pro,2691,43,UPI,13,0,60.88,Monthly,Active
+CUST_0293,48,Germany,Enterprise,7926,20,UPI,7,0,74.75,Monthly,Active
+CUST_0294,62,Australia,Basic,1260,4,Credit Card,4,0,26.65,Monthly,Churned
+CUST_0295,44,India,Enterprise,6738,1,Debit Card,4,1,85.65,Monthly,Active
+CUST_0296,55,USA,Basic,646,33,UPI,11,1,51.34,Monthly,Active
+CUST_0297,22,Australia,Basic,1029,29,UPI,9,0,32.97,Annual,Active
+CUST_0298,40,India,Basic,872,23,Debit Card,12,4,42.83,Monthly,Churned
+CUST_0299,47,Canada,Basic,1227,4,PayPal,10,4,22.36,Annual,Churned
+CUST_0300,62,Australia,Pro,2570,32,UPI,12,3,55.02,Annual,Active
+CUST_0301,22,India,Pro,3705,20,PayPal,5,1,81.34,Annual,Churned
+CUST_0302,24,Australia,Basic,639,44,PayPal,11,1,57.94,Monthly,Active
+CUST_0303,51,USA,Pro,2601,37,Debit Card,5,2,78.52,Monthly,Churned
+CUST_0304,34,Canada,Basic,1222,10,PayPal,5,1,36.45,Annual,Active
+CUST_0305,61,Australia,Basic,960,14,PayPal,4,3,54.33,Annual,Active
+CUST_0306,60,Canada,Pro,1726,12,UPI,12,4,78.56,Monthly,Churned
+CUST_0307,24,Canada,Basic,569,32,PayPal,6,2,27.27,Annual,Active
+CUST_0308,32,Germany,Pro,3107,33,Credit Card,5,2,70.21,Annual,Active
+CUST_0309,50,USA,Basic,857,28,PayPal,10,2,25.82,Monthly,Active
+CUST_0310,32,India,Basic,1059,9,Debit Card,10,2,24.5,Monthly,Active
+CUST_0311,18,India,Pro,1780,20,PayPal,5,3,76.31,Monthly,Active
+CUST_0312,64,USA,Enterprise,4688,5,Debit Card,8,4,99.43,Monthly,Active
+CUST_0313,55,USA,Pro,1857,11,Credit Card,6,4,79.36,Monthly,Active
+CUST_0314,27,India,Pro,2048,23,UPI,6,3,52.0,Monthly,Active
+CUST_0315,25,Germany,Pro,2565,27,PayPal,8,2,62.34,Annual,Active
+CUST_0316,39,Canada,Pro,2035,1,Credit Card,2,3,60.01,Monthly,Churned
+CUST_0317,62,UK,Enterprise,6496,10,Debit Card,10,3,70.44,Monthly,Active
+CUST_0318,40,USA,Pro,2562,7,Debit Card,8,2,82.04,Annual,Active
+CUST_0319,42,UK,Pro,3100,22,Debit Card,7,1,53.75,Monthly,Churned
+CUST_0320,64,Germany,Basic,1321,17,Credit Card,14,2,26.89,Monthly,Churned
+CUST_0321,34,Canada,Basic,531,17,UPI,6,1,57.63,Monthly,Active
+CUST_0322,32,Australia,Basic,581,44,Debit Card,9,1,38.31,Monthly,Active
+CUST_0323,54,USA,Basic,597,5,UPI,8,3,51.8,Monthly,Active
+CUST_0324,40,India,Basic,944,44,PayPal,10,0,25.74,Monthly,Active
+CUST_0325,30,Australia,Basic,812,6,Debit Card,9,2,52.64,Annual,Active
+CUST_0326,25,UK,Enterprise,6926,20,Credit Card,8,2,98.79,Monthly,Active
+CUST_0327,50,India,Basic,1290,32,UPI,10,3,35.32,Monthly,Active
+CUST_0328,23,USA,Pro,2177,18,PayPal,11,1,50.03,Annual,Active
+CUST_0329,26,Australia,Basic,1397,34,PayPal,8,2,54.13,Monthly,Active
+CUST_0330,22,UK,Enterprise,7675,18,PayPal,4,5,88.43,Monthly,Active
+CUST_0331,33,UK,Enterprise,9311,2,PayPal,8,3,91.07,Monthly,Active
+CUST_0332,23,Australia,Pro,2055,45,PayPal,10,3,66.94,Monthly,Active
+CUST_0333,48,UK,Pro,2900,41,Credit Card,3,5,50.49,Annual,Churned
+CUST_0334,58,Canada,Basic,1236,5,PayPal,9,4,41.46,Monthly,Active
+CUST_0335,29,Germany,Basic,1050,32,Debit Card,4,4,58.52,Monthly,Churned
+CUST_0336,27,Australia,Enterprise,9424,4,Credit Card,6,5,81.55,Monthly,Active
+CUST_0337,56,Canada,Basic,965,46,PayPal,12,1,39.61,Monthly,Churned
+CUST_0338,24,Canada,Basic,515,12,Credit Card,8,2,42.07,Monthly,Active
+CUST_0339,54,UK,Basic,725,45,Debit Card,8,1,43.34,Monthly,Active
+CUST_0340,44,USA,Basic,787,46,Debit Card,7,0,21.39,Annual,Active
+CUST_0341,56,UK,Pro,2098,15,Debit Card,5,0,54.03,Monthly,Active
+CUST_0342,40,Canada,Pro,2342,2,PayPal,10,0,66.5,Monthly,Churned
+CUST_0343,38,Germany,Pro,2538,22,Debit Card,5,1,54.76,Monthly,Active
+CUST_0344,35,UK,Basic,742,17,PayPal,8,0,31.17,Annual,Churned
+CUST_0345,34,Australia,Basic,825,6,PayPal,5,1,31.89,Annual,Churned
+CUST_0346,60,Australia,Basic,879,21,UPI,7,1,20.05,Monthly,Active
+CUST_0347,22,Australia,Basic,853,39,Credit Card,6,0,26.14,Monthly,Active
+CUST_0348,59,Germany,Pro,3956,28,Credit Card,4,2,70.25,Annual,Active
+CUST_0349,51,USA,Pro,3605,18,UPI,2,0,67.51,Monthly,Active
+CUST_0350,32,Germany,Basic,1115,4,Credit Card,10,1,24.62,Monthly,Active
+CUST_0351,47,UK,Pro,2872,34,Credit Card,11,0,69.23,Monthly,Churned
+CUST_0352,26,Germany,Basic,918,15,Debit Card,9,2,58.58,Monthly,Active
+CUST_0353,49,UK,Pro,3418,47,UPI,7,3,62.66,Monthly,Active
+CUST_0354,26,India,Enterprise,6242,10,UPI,5,1,90.48,Monthly,Active
+CUST_0355,47,Australia,Pro,2938,23,Debit Card,6,1,72.24,Monthly,Active
+CUST_0356,43,USA,Pro,3780,13,UPI,7,1,82.19,Annual,Active
+CUST_0357,26,UK,Basic,1235,27,PayPal,6,6,56.49,Annual,Active
+CUST_0358,25,UK,Basic,1102,17,Debit Card,10,2,45.35,Monthly,Active
+CUST_0359,43,India,Basic,943,17,PayPal,9,1,54.26,Annual,Active
+CUST_0360,42,India,Basic,1357,31,PayPal,9,0,27.23,Annual,Churned
+CUST_0361,56,UK,Basic,661,40,PayPal,5,2,58.75,Annual,Active
+CUST_0362,37,Australia,Basic,543,30,Credit Card,7,6,47.64,Monthly,Active
+CUST_0363,38,India,Pro,1822,19,PayPal,7,2,66.89,Monthly,Active
+CUST_0364,42,UK,Basic,733,30,UPI,8,3,51.22,Monthly,Active
+CUST_0365,30,UK,Pro,2882,11,Credit Card,12,1,84.33,Annual,Active
+CUST_0366,60,Germany,Enterprise,4358,4,Credit Card,8,2,91.44,Monthly,Churned
+CUST_0367,35,Germany,Basic,1298,46,Credit Card,7,3,34.65,Monthly,Churned
+CUST_0368,31,UK,Basic,1348,16,Credit Card,11,1,23.12,Monthly,Churned
+CUST_0369,20,Australia,Basic,818,35,UPI,9,0,39.32,Monthly,Active
+CUST_0370,41,Germany,Pro,1522,45,Debit Card,7,5,53.04,Monthly,Churned
+CUST_0371,56,India,Basic,791,33,PayPal,8,2,25.54,Monthly,Churned
+CUST_0372,45,Germany,Enterprise,9176,7,PayPal,7,3,95.77,Monthly,Active
+CUST_0373,38,UK,Pro,3943,18,PayPal,10,3,76.06,Monthly,Active
+CUST_0374,56,USA,Basic,784,10,PayPal,13,4,41.74,Annual,Churned
+CUST_0375,58,USA,Basic,645,43,PayPal,3,5,52.95,Monthly,Active
+CUST_0376,25,Australia,Basic,1172,47,Debit Card,7,2,54.31,Monthly,Active
+CUST_0377,56,Canada,Basic,1332,9,Credit Card,6,0,55.29,Monthly,Active
+CUST_0378,51,UK,Enterprise,6107,33,PayPal,9,2,71.9,Monthly,Churned
+CUST_0379,59,UK,Basic,1138,42,PayPal,10,1,59.57,Monthly,Active
+CUST_0380,32,Australia,Basic,1234,45,Credit Card,3,1,59.93,Monthly,Active
+CUST_0381,64,India,Enterprise,4916,5,Credit Card,5,7,86.95,Monthly,Churned
+CUST_0382,49,USA,Basic,1215,8,Credit Card,8,3,58.49,Monthly,Active
+CUST_0383,48,India,Basic,567,6,Debit Card,5,2,40.3,Annual,Active
+CUST_0384,43,Germany,Basic,844,26,Debit Card,6,2,58.31,Monthly,Churned
+CUST_0385,19,USA,Basic,1449,28,Credit Card,1,0,50.75,Monthly,Active
+CUST_0386,64,Australia,Enterprise,7621,17,PayPal,9,1,73.19,Monthly,Churned
+CUST_0387,45,India,Pro,1502,22,Debit Card,9,3,59.19,Annual,Churned
+CUST_0388,38,Canada,Enterprise,8300,4,UPI,8,2,89.69,Monthly,Active
+CUST_0389,50,Germany,Pro,2891,32,Credit Card,9,3,51.64,Monthly,Active
+CUST_0390,50,India,Enterprise,7403,28,Credit Card,7,2,89.26,Annual,Active
+CUST_0391,41,USA,Basic,565,33,UPI,7,2,40.35,Monthly,Active
+CUST_0392,35,UK,Basic,837,39,PayPal,7,0,56.46,Monthly,Churned
+CUST_0393,20,Australia,Basic,540,2,UPI,4,3,31.19,Annual,Active
+CUST_0394,62,UK,Basic,799,33,UPI,1,2,59.37,Monthly,Active
+CUST_0395,35,Australia,Enterprise,8324,25,Credit Card,7,1,95.89,Annual,Active
+CUST_0396,52,Canada,Basic,1020,16,Debit Card,10,1,39.62,Monthly,Active
+CUST_0397,45,Australia,Basic,1409,42,PayPal,5,1,22.98,Monthly,Churned
+CUST_0398,36,Germany,Basic,1099,22,Credit Card,5,3,40.97,Monthly,Active
+CUST_0399,57,UK,Basic,1473,10,Credit Card,8,1,58.36,Annual,Active
+CUST_0400,64,India,Basic,1373,23,Credit Card,7,2,48.04,Monthly,Active
+CUST_0401,56,UK,Pro,3633,45,Debit Card,10,3,75.85,Annual,Active
+CUST_0402,32,UK,Pro,1606,6,PayPal,10,1,61.15,Annual,Active
+CUST_0403,44,USA,Basic,779,28,Debit Card,9,1,39.04,Monthly,Active
+CUST_0404,44,Germany,Basic,1193,39,Credit Card,8,2,50.3,Monthly,Active
+CUST_0405,56,India,Basic,522,40,Debit Card,5,3,30.69,Annual,Active
+CUST_0406,46,UK,Enterprise,9744,18,PayPal,7,1,98.42,Annual,Active
+CUST_0407,24,Canada,Pro,3190,30,PayPal,10,0,78.89,Annual,Active
+CUST_0408,28,India,Basic,884,13,PayPal,5,1,46.8,Monthly,Churned
+CUST_0409,59,USA,Basic,997,21,Credit Card,5,1,46.39,Monthly,Active
+CUST_0410,25,UK,Enterprise,8151,5,PayPal,12,1,95.27,Monthly,Active
+CUST_0411,21,Australia,Basic,792,15,Credit Card,6,2,58.67,Annual,Active
+CUST_0412,32,India,Basic,1038,31,PayPal,8,2,49.71,Annual,Active
+CUST_0413,34,India,Pro,3396,43,UPI,6,1,71.68,Annual,Active
+CUST_0414,45,Germany,Basic,1367,2,Credit Card,9,0,35.6,Monthly,Active
+CUST_0415,30,USA,Pro,2404,40,Credit Card,9,1,73.94,Monthly,Active
+CUST_0416,33,Canada,Basic,622,43,Credit Card,6,2,20.74,Monthly,Active
+CUST_0417,62,UK,Basic,1032,18,Debit Card,6,1,32.19,Monthly,Active
+CUST_0418,61,Australia,Basic,1186,23,Debit Card,4,2,55.51,Monthly,Churned
+CUST_0419,43,India,Basic,1281,33,Credit Card,8,4,50.14,Monthly,Churned
+CUST_0420,39,USA,Basic,1452,44,PayPal,9,2,21.6,Monthly,Active
+CUST_0421,20,USA,Basic,1063,28,Credit Card,11,1,25.53,Monthly,Active
+CUST_0422,25,Germany,Basic,631,33,UPI,8,4,53.32,Monthly,Active
+CUST_0423,26,India,Basic,614,42,UPI,9,1,48.85,Annual,Active
+CUST_0424,56,India,Basic,571,9,Debit Card,11,3,36.19,Annual,Active
+CUST_0425,21,UK,Pro,3515,35,Debit Card,8,3,75.74,Monthly,Churned
+CUST_0426,45,UK,Pro,1596,21,Debit Card,10,5,73.51,Annual,Active
+CUST_0427,36,USA,Basic,1384,47,Debit Card,7,2,32.5,Monthly,Churned
+CUST_0428,34,India,Enterprise,9978,8,PayPal,7,0,83.14,Monthly,Churned
+CUST_0429,51,India,Enterprise,5677,39,Debit Card,3,2,96.48,Monthly,Churned
+CUST_0430,34,Australia,Pro,3471,22,Debit Card,10,2,70.71,Annual,Active
+CUST_0431,54,USA,Basic,576,47,Credit Card,9,2,26.98,Annual,Active
+CUST_0432,55,UK,Pro,2936,31,PayPal,12,0,52.53,Monthly,Active
+CUST_0433,36,Canada,Basic,508,14,PayPal,6,1,21.34,Monthly,Churned
+CUST_0434,49,USA,Pro,2488,38,PayPal,6,1,82.49,Annual,Active
+CUST_0435,36,Canada,Pro,3305,44,UPI,8,1,55.69,Monthly,Active
+CUST_0436,50,USA,Pro,3721,18,Debit Card,8,1,59.17,Annual,Active
+CUST_0437,46,UK,Enterprise,4796,35,UPI,6,1,79.73,Annual,Active
+CUST_0438,36,Canada,Enterprise,5420,1,Credit Card,9,2,70.73,Annual,Active
+CUST_0439,22,USA,Basic,1359,18,Debit Card,3,0,29.9,Monthly,Churned
+CUST_0440,54,Germany,Pro,2397,43,UPI,10,1,82.92,Monthly,Active
+CUST_0441,64,India,Basic,1240,17,Debit Card,9,1,56.23,Annual,Active
+CUST_0442,57,Australia,Pro,2205,13,UPI,6,1,69.98,Monthly,Active
+CUST_0443,26,USA,Basic,763,7,PayPal,8,3,51.06,Annual,Active
+CUST_0444,60,USA,Enterprise,8975,41,Credit Card,9,3,87.14,Monthly,Churned
+CUST_0445,40,Canada,Basic,963,38,UPI,11,1,55.23,Annual,Churned
+CUST_0446,64,UK,Basic,967,5,Credit Card,5,2,52.87,Monthly,Active
+CUST_0447,58,UK,Basic,996,45,PayPal,7,4,56.18,Monthly,Active
+CUST_0448,46,Germany,Basic,922,29,PayPal,5,0,38.74,Monthly,Churned
+CUST_0449,60,India,Enterprise,4560,41,PayPal,10,2,97.65,Monthly,Churned
+CUST_0450,58,UK,Enterprise,7970,4,UPI,8,1,76.29,Annual,Churned
+CUST_0451,31,UK,Basic,1152,44,Credit Card,13,3,35.95,Monthly,Churned
+CUST_0452,38,India,Basic,581,38,PayPal,7,1,30.76,Annual,Churned
+CUST_0453,36,Canada,Basic,531,13,Credit Card,8,2,56.47,Monthly,Active
+CUST_0454,37,India,Pro,2877,33,PayPal,9,1,54.55,Annual,Active
+CUST_0455,50,India,Basic,825,4,PayPal,7,1,22.08,Monthly,Active
+CUST_0456,29,Australia,Basic,1083,28,PayPal,11,1,58.18,Monthly,Churned
+CUST_0457,38,UK,Basic,604,32,PayPal,5,3,21.15,Monthly,Active
+CUST_0458,46,Germany,Pro,3685,42,Debit Card,5,2,80.64,Annual,Churned
+CUST_0459,49,Germany,Pro,3365,6,PayPal,8,2,80.45,Annual,Active
+CUST_0460,57,Canada,Basic,1130,6,PayPal,6,1,45.52,Annual,Active
+CUST_0461,34,Australia,Enterprise,6939,6,Debit Card,8,1,80.94,Annual,Active
+CUST_0462,54,USA,Pro,3500,25,PayPal,4,2,54.45,Monthly,Churned
+CUST_0463,29,India,Pro,2840,34,PayPal,7,1,80.49,Annual,Active
+CUST_0464,49,Australia,Pro,3606,4,Credit Card,1,3,81.82,Annual,Churned
+CUST_0465,54,USA,Pro,2302,28,PayPal,8,0,77.92,Monthly,Active
+CUST_0466,48,Australia,Pro,3994,12,UPI,6,3,70.88,Monthly,Churned
+CUST_0467,62,UK,Basic,1146,39,PayPal,10,4,54.94,Monthly,Active
+CUST_0468,39,USA,Basic,1471,22,Credit Card,6,2,43.45,Annual,Active
+CUST_0469,61,Canada,Basic,1319,24,Credit Card,7,4,25.24,Monthly,Active
+CUST_0470,28,India,Basic,840,43,PayPal,3,1,51.4,Annual,Active
+CUST_0471,51,Canada,Pro,2921,9,PayPal,10,5,83.68,Monthly,Active
+CUST_0472,48,Germany,Basic,1218,30,Debit Card,7,4,41.53,Monthly,Active
+CUST_0473,62,Germany,Basic,518,9,Debit Card,7,4,49.85,Monthly,Churned
+CUST_0474,18,UK,Basic,799,23,Credit Card,12,1,34.01,Annual,Churned
+CUST_0475,28,UK,Basic,908,24,Debit Card,7,2,54.5,Monthly,Active
+CUST_0476,31,UK,Basic,581,24,Credit Card,14,3,46.94,Monthly,Churned
+CUST_0477,37,USA,Basic,731,30,Debit Card,4,4,48.85,Monthly,Active
+CUST_0478,31,USA,Enterprise,7235,40,Credit Card,7,5,94.31,Annual,Churned
+CUST_0479,39,USA,Enterprise,5360,11,UPI,11,1,75.57,Monthly,Active
+CUST_0480,48,UK,Pro,2548,35,Debit Card,12,3,81.83,Monthly,Active
+CUST_0481,62,Germany,Basic,1060,14,PayPal,11,2,36.53,Annual,Active
+CUST_0482,47,UK,Basic,1013,21,PayPal,6,0,31.23,Monthly,Active
+CUST_0483,40,India,Pro,3360,3,Credit Card,7,3,68.83,Annual,Churned
+CUST_0484,61,Germany,Basic,1417,41,Credit Card,10,1,47.5,Annual,Active
+CUST_0485,20,USA,Pro,3095,29,UPI,13,2,71.16,Monthly,Active
+CUST_0486,54,India,Enterprise,9120,12,PayPal,12,3,91.56,Monthly,Active
+CUST_0487,35,Australia,Pro,3063,47,UPI,4,2,57.74,Monthly,Active
+CUST_0488,28,Germany,Enterprise,8496,28,UPI,7,1,80.11,Monthly,Churned
+CUST_0489,25,USA,Basic,1238,41,UPI,7,3,38.38,Monthly,Active
+CUST_0490,25,USA,Basic,543,37,Credit Card,14,2,47.66,Monthly,Churned
+CUST_0491,30,Germany,Pro,2487,46,Credit Card,5,0,55.61,Monthly,Active
+CUST_0492,54,India,Basic,1476,27,PayPal,8,2,26.94,Monthly,Churned
+CUST_0493,26,USA,Basic,712,22,PayPal,9,3,53.86,Annual,Churned
+CUST_0494,49,Canada,Basic,1027,38,Debit Card,6,2,22.31,Monthly,Active
+CUST_0495,25,India,Pro,2513,41,Debit Card,5,3,57.66,Monthly,Churned
+CUST_0496,46,Australia,Pro,3617,40,Credit Card,7,1,54.45,Annual,Active
+CUST_0497,30,Canada,Pro,3449,41,Debit Card,9,2,77.42,Annual,Active
+CUST_0498,63,Germany,Enterprise,9650,46,UPI,8,3,88.24,Annual,Churned
+CUST_0499,28,UK,Pro,2214,42,Debit Card,8,0,53.32,Monthly,Active
+CUST_0500,21,India,Basic,974,32,UPI,7,1,59.22,Monthly,Active
+CUST_0501,31,USA,Pro,2147,38,UPI,11,0,53.91,Annual,Active
+CUST_0502,55,India,Pro,2261,6,UPI,6,1,70.78,Monthly,Active
+CUST_0503,50,UK,Basic,962,35,Debit Card,9,3,58.58,Monthly,Churned
+CUST_0504,59,USA,Enterprise,4763,9,PayPal,12,3,75.76,Monthly,Active
+CUST_0505,33,India,Basic,1298,31,PayPal,9,2,20.46,Annual,Active
+CUST_0506,32,Australia,Basic,868,34,PayPal,10,3,37.44,Annual,Active
+CUST_0507,45,Germany,Basic,1095,27,Credit Card,10,0,24.05,Annual,Active
+CUST_0508,27,Australia,Enterprise,6311,18,Debit Card,7,1,82.89,Monthly,Active
+CUST_0509,34,Canada,Basic,1363,46,UPI,9,0,29.13,Annual,Active
+CUST_0510,54,UK,Basic,870,7,Credit Card,13,1,34.8,Monthly,Active
+CUST_0511,57,USA,Pro,3508,23,Debit Card,6,4,65.79,Annual,Active
+CUST_0512,64,India,Basic,820,24,PayPal,17,3,44.96,Monthly,Active
+CUST_0513,27,India,Basic,1080,21,Debit Card,9,1,21.25,Annual,Active
+CUST_0514,54,Canada,Pro,3949,14,UPI,9,0,82.67,Monthly,Churned
+CUST_0515,43,Germany,Pro,3979,3,Credit Card,7,3,69.71,Annual,Active
+CUST_0516,23,Canada,Basic,1151,3,UPI,10,1,41.51,Annual,Churned
+CUST_0517,49,Australia,Pro,2035,6,Debit Card,8,3,65.8,Monthly,Active
+CUST_0518,20,Australia,Pro,2947,11,UPI,3,2,50.66,Monthly,Churned
+CUST_0519,63,Germany,Basic,1025,40,Credit Card,11,1,32.31,Annual,Active
+CUST_0520,22,USA,Enterprise,5529,26,UPI,14,3,78.68,Annual,Active
+CUST_0521,35,Australia,Pro,2987,5,PayPal,10,1,83.2,Monthly,Churned
+CUST_0522,55,Germany,Pro,2309,43,UPI,11,4,69.43,Annual,Active
+CUST_0523,22,Germany,Pro,2967,2,PayPal,11,1,84.16,Annual,Churned
+CUST_0524,26,Germany,Pro,2375,42,UPI,11,0,56.29,Annual,Churned
+CUST_0525,43,Germany,Pro,2633,45,Credit Card,4,3,82.29,Monthly,Active
+CUST_0526,54,Canada,Pro,2196,22,PayPal,8,1,75.44,Monthly,Churned
+CUST_0527,53,Germany,Basic,729,20,Credit Card,6,4,23.47,Annual,Active
+CUST_0528,38,Canada,Pro,3349,5,PayPal,8,1,52.08,Monthly,Churned
+CUST_0529,40,Germany,Enterprise,6060,41,Debit Card,8,4,71.34,Annual,Active
+CUST_0530,21,Germany,Basic,631,30,UPI,13,0,30.35,Monthly,Active
+CUST_0531,30,India,Pro,1937,17,UPI,4,1,71.83,Annual,Active
+CUST_0532,56,UK,Basic,1118,21,UPI,7,0,58.24,Monthly,Churned
+CUST_0533,60,Germany,Pro,2266,17,PayPal,10,2,60.67,Annual,Active
+CUST_0534,40,Canada,Enterprise,9299,35,PayPal,5,0,80.89,Monthly,Churned
+CUST_0535,45,Germany,Basic,1221,5,PayPal,4,5,21.76,Monthly,Active
+CUST_0536,38,India,Enterprise,5543,12,Credit Card,9,0,87.47,Monthly,Churned
+CUST_0537,35,Australia,Basic,785,21,Credit Card,3,1,22.03,Monthly,Churned
+CUST_0538,41,Canada,Pro,1573,6,UPI,8,1,65.61,Monthly,Active
+CUST_0539,22,UK,Pro,3423,39,UPI,12,2,67.27,Monthly,Active
+CUST_0540,39,Germany,Basic,823,19,Credit Card,12,1,35.42,Monthly,Active
+CUST_0541,46,Canada,Pro,3600,33,Credit Card,7,2,68.62,Monthly,Churned
+CUST_0542,39,USA,Basic,925,27,Credit Card,10,2,21.9,Monthly,Active
+CUST_0543,30,UK,Enterprise,8057,14,PayPal,3,3,78.57,Annual,Active
+CUST_0544,60,India,Basic,994,11,UPI,10,1,51.23,Annual,Churned
+CUST_0545,42,Germany,Pro,2248,5,PayPal,6,2,66.18,Annual,Active
+CUST_0546,33,USA,Pro,3008,3,Credit Card,2,3,71.77,Annual,Churned
+CUST_0547,30,UK,Enterprise,8427,4,Credit Card,6,2,80.36,Annual,Active
+CUST_0548,32,USA,Enterprise,7338,32,UPI,11,2,94.61,Annual,Active
+CUST_0549,45,USA,Basic,604,27,Debit Card,1,0,23.57,Annual,Active
+CUST_0550,49,USA,Basic,1041,1,UPI,9,2,48.48,Monthly,Active
+CUST_0551,35,Canada,Basic,1038,37,Debit Card,11,3,31.74,Annual,Churned
+CUST_0552,59,Germany,Enterprise,4611,1,PayPal,10,1,70.45,Monthly,Active
+CUST_0553,43,UK,Basic,570,15,PayPal,9,0,53.54,Monthly,Churned
+CUST_0554,30,UK,Basic,606,18,UPI,12,2,31.44,Monthly,Active
+CUST_0555,29,Canada,Basic,1285,18,PayPal,6,1,52.07,Monthly,Active
+CUST_0556,55,India,Enterprise,8664,16,Credit Card,5,1,70.01,Annual,Active
+CUST_0557,32,Germany,Basic,1171,40,Credit Card,15,2,41.73,Monthly,Active
+CUST_0558,30,India,Basic,834,4,Credit Card,8,3,37.1,Monthly,Active
+CUST_0559,23,USA,Enterprise,4791,28,PayPal,12,1,84.75,Monthly,Active
+CUST_0560,56,USA,Enterprise,5711,47,Credit Card,7,4,76.6,Monthly,Churned
+CUST_0561,54,USA,Enterprise,7994,31,PayPal,8,3,84.3,Annual,Active
+CUST_0562,44,UK,Basic,507,34,UPI,5,5,43.66,Monthly,Active
+CUST_0563,62,Canada,Basic,688,1,Credit Card,5,5,59.73,Monthly,Churned
+CUST_0564,62,Australia,Basic,809,17,UPI,12,0,41.07,Monthly,Churned
+CUST_0565,56,UK,Basic,1294,47,Credit Card,10,1,43.13,Monthly,Active
+CUST_0566,63,India,Enterprise,9310,17,UPI,8,3,87.67,Monthly,Churned
+CUST_0567,32,UK,Basic,577,18,UPI,7,1,30.1,Annual,Churned
+CUST_0568,58,India,Pro,2221,41,Credit Card,7,3,58.13,Monthly,Active
+CUST_0569,44,Germany,Enterprise,5331,18,Debit Card,8,3,81.74,Monthly,Churned
+CUST_0570,32,USA,Basic,1075,25,Credit Card,5,4,54.95,Monthly,Active
+CUST_0571,24,USA,Enterprise,6094,31,Credit Card,5,4,96.24,Annual,Active
+CUST_0572,57,UK,Basic,861,41,UPI,15,3,37.1,Monthly,Active
+CUST_0573,62,India,Basic,775,37,Debit Card,7,1,40.5,Monthly,Churned
+CUST_0574,36,Australia,Basic,658,10,PayPal,5,2,25.19,Monthly,Active
+CUST_0575,28,Australia,Basic,1092,7,UPI,9,3,47.26,Monthly,Churned
+CUST_0576,38,India,Basic,847,15,PayPal,11,3,43.4,Monthly,Churned
+CUST_0577,32,Canada,Enterprise,4791,30,Credit Card,10,3,78.38,Annual,Churned
+CUST_0578,31,USA,Enterprise,5381,39,PayPal,7,0,75.99,Monthly,Active
+CUST_0579,31,USA,Basic,1095,30,Credit Card,9,2,31.47,Annual,Active
+CUST_0580,20,Australia,Pro,2385,38,Credit Card,7,1,63.19,Annual,Churned
+CUST_0581,50,Germany,Pro,3818,43,Debit Card,11,6,54.59,Monthly,Active
+CUST_0582,58,Germany,Basic,1499,32,Debit Card,9,3,40.11,Monthly,Churned
+CUST_0583,62,Canada,Pro,2546,27,PayPal,9,5,64.64,Annual,Active
+CUST_0584,43,Australia,Basic,1434,38,UPI,7,0,52.91,Annual,Active
+CUST_0585,56,Germany,Enterprise,5757,46,Debit Card,5,3,78.69,Monthly,Active
+CUST_0586,24,UK,Basic,1473,47,Credit Card,12,1,42.88,Annual,Active
+CUST_0587,30,UK,Basic,797,20,Debit Card,9,1,21.02,Annual,Active
+CUST_0588,63,Australia,Pro,3731,25,Credit Card,13,2,58.86,Annual,Churned
+CUST_0589,38,UK,Pro,2883,29,Debit Card,6,4,83.36,Annual,Active
+CUST_0590,36,Germany,Basic,1010,19,PayPal,10,1,41.74,Annual,Active
+CUST_0591,32,Canada,Basic,1289,2,Credit Card,8,1,43.61,Annual,Churned
+CUST_0592,62,Australia,Basic,1311,38,Credit Card,7,1,23.0,Annual,Churned
+CUST_0593,25,USA,Basic,997,1,Credit Card,11,3,57.95,Monthly,Churned
+CUST_0594,56,India,Basic,971,15,Credit Card,8,6,56.11,Monthly,Active
+CUST_0595,33,Australia,Pro,3377,41,UPI,10,3,52.6,Annual,Active
+CUST_0596,30,Australia,Basic,1082,9,PayPal,7,4,20.14,Monthly,Churned
+CUST_0597,34,India,Basic,1109,45,PayPal,11,1,38.24,Monthly,Active
+CUST_0598,22,India,Pro,3913,16,Credit Card,7,1,68.83,Monthly,Active
+CUST_0599,18,Canada,Basic,775,24,Debit Card,10,2,55.51,Monthly,Churned
+CUST_0600,37,Australia,Basic,1363,29,UPI,5,3,41.07,Annual,Churned
+CUST_0601,63,UK,Basic,1096,40,Debit Card,11,0,48.4,Annual,Active
+CUST_0602,32,Germany,Basic,771,44,PayPal,8,3,26.57,Annual,Churned
+CUST_0603,59,Germany,Basic,817,46,Credit Card,9,2,30.1,Monthly,Churned
+CUST_0604,54,India,Pro,2107,45,UPI,9,1,81.14,Annual,Churned
+CUST_0605,32,Canada,Basic,1384,16,Debit Card,14,2,41.96,Annual,Active
+CUST_0606,28,Germany,Basic,1385,15,Credit Card,8,7,25.38,Monthly,Active
+CUST_0607,52,UK,Basic,1143,18,Debit Card,6,1,23.26,Annual,Churned
+CUST_0608,47,USA,Pro,3877,19,Debit Card,11,2,57.56,Monthly,Active
+CUST_0609,61,Australia,Basic,698,44,Credit Card,6,5,23.26,Monthly,Active
+CUST_0610,49,UK,Enterprise,5281,28,Debit Card,3,5,97.13,Annual,Active
+CUST_0611,48,Germany,Basic,911,20,Debit Card,10,2,41.88,Monthly,Active
+CUST_0612,27,USA,Basic,1348,19,Credit Card,4,2,57.86,Annual,Active
+CUST_0613,29,India,Basic,1489,4,Credit Card,6,5,47.6,Monthly,Active
+CUST_0614,34,UK,Pro,1690,15,PayPal,8,2,51.83,Annual,Churned
+CUST_0615,40,UK,Pro,2490,3,PayPal,5,1,73.3,Monthly,Active
+CUST_0616,39,Australia,Basic,897,44,Debit Card,10,1,44.34,Monthly,Active
+CUST_0617,35,Germany,Basic,1341,33,PayPal,7,0,37.97,Monthly,Churned
+CUST_0618,55,UK,Basic,1124,4,Debit Card,8,1,30.71,Monthly,Churned
+CUST_0619,53,USA,Basic,758,28,PayPal,9,0,42.4,Annual,Churned
+CUST_0620,41,Australia,Pro,3041,29,Credit Card,6,4,61.15,Annual,Active
+CUST_0621,53,USA,Enterprise,9835,21,Debit Card,15,0,81.13,Monthly,Churned
+CUST_0622,31,Canada,Basic,979,41,PayPal,8,2,25.89,Annual,Active
+CUST_0623,32,UK,Enterprise,7010,40,PayPal,7,2,92.85,Monthly,Churned
+CUST_0624,33,UK,Pro,1738,31,UPI,10,1,61.39,Monthly,Churned
+CUST_0625,53,Canada,Pro,2784,47,Credit Card,7,0,67.08,Annual,Active
+CUST_0626,29,Australia,Pro,3538,23,PayPal,5,1,51.54,Monthly,Active
+CUST_0627,62,Australia,Pro,2113,47,Debit Card,7,2,59.35,Monthly,Active
+CUST_0628,36,Germany,Pro,1752,21,PayPal,6,4,61.11,Monthly,Active
+CUST_0629,36,India,Pro,2450,36,Debit Card,7,0,58.78,Monthly,Churned
+CUST_0630,52,Canada,Pro,3518,46,PayPal,7,2,76.79,Monthly,Churned
+CUST_0631,35,Germany,Basic,819,9,PayPal,6,0,32.26,Monthly,Active
+CUST_0632,25,Canada,Enterprise,5965,32,UPI,7,3,72.04,Annual,Churned
+CUST_0633,51,UK,Basic,1450,17,Debit Card,6,2,25.93,Annual,Active
+CUST_0634,27,India,Basic,1417,11,Credit Card,7,2,48.76,Monthly,Churned
+CUST_0635,48,India,Enterprise,5479,42,Debit Card,12,4,87.69,Monthly,Active
+CUST_0636,34,UK,Basic,1289,1,UPI,5,1,47.55,Annual,Active
+CUST_0637,40,UK,Pro,3678,45,UPI,12,2,59.42,Annual,Active
+CUST_0638,52,Australia,Pro,3806,10,Debit Card,8,2,74.64,Annual,Active
+CUST_0639,32,Germany,Basic,931,37,Credit Card,8,2,55.6,Monthly,Active
+CUST_0640,57,Australia,Pro,3739,14,UPI,9,4,64.83,Annual,Active
+CUST_0641,59,Canada,Basic,1376,28,PayPal,9,3,59.52,Monthly,Active
+CUST_0642,27,Germany,Basic,1041,33,UPI,8,4,22.13,Annual,Active
+CUST_0643,46,India,Pro,3927,7,PayPal,5,0,63.24,Monthly,Active
+CUST_0644,57,Germany,Basic,1003,17,UPI,11,3,42.22,Monthly,Active
+CUST_0645,23,Australia,Enterprise,7174,39,Debit Card,9,0,75.41,Monthly,Churned
+CUST_0646,60,Canada,Basic,1270,15,Credit Card,9,2,43.75,Monthly,Active
+CUST_0647,22,Australia,Pro,2153,36,PayPal,10,1,51.56,Monthly,Churned
+CUST_0648,44,Germany,Basic,1166,22,PayPal,9,2,45.43,Annual,Churned
+CUST_0649,41,USA,Basic,1434,10,PayPal,13,4,42.92,Monthly,Active
+CUST_0650,53,Australia,Pro,1613,10,Debit Card,7,5,78.52,Monthly,Churned
+CUST_0651,53,Germany,Pro,3305,41,Credit Card,8,2,61.78,Monthly,Active
+CUST_0652,55,USA,Basic,524,44,Debit Card,6,0,23.92,Monthly,Active
+CUST_0653,38,USA,Basic,612,10,Debit Card,10,1,59.38,Monthly,Active
+CUST_0654,46,Australia,Pro,3493,27,PayPal,6,3,50.66,Annual,Active
+CUST_0655,44,UK,Pro,3340,19,PayPal,4,2,60.76,Monthly,Active
+CUST_0656,50,USA,Basic,1204,47,UPI,9,0,54.71,Monthly,Churned
+CUST_0657,32,Australia,Enterprise,4545,8,Credit Card,5,4,76.64,Annual,Active
+CUST_0658,47,Germany,Pro,3400,36,PayPal,8,2,79.62,Annual,Churned
+CUST_0659,36,USA,Basic,983,6,Credit Card,9,5,48.09,Monthly,Active
+CUST_0660,56,Germany,Enterprise,8822,18,Credit Card,12,2,83.62,Annual,Active
+CUST_0661,25,UK,Basic,867,45,Debit Card,8,3,41.28,Monthly,Churned
+CUST_0662,51,Canada,Pro,3125,3,Credit Card,4,2,84.54,Monthly,Active
+CUST_0663,21,Canada,Basic,1146,9,Debit Card,6,0,24.75,Monthly,Churned
+CUST_0664,30,Canada,Basic,1015,7,Debit Card,9,0,42.43,Annual,Active
+CUST_0665,54,India,Enterprise,8881,27,UPI,6,0,99.68,Annual,Active
+CUST_0666,31,Canada,Basic,1403,18,Debit Card,6,1,43.74,Monthly,Churned
+CUST_0667,49,USA,Basic,1136,20,PayPal,7,8,54.38,Monthly,Churned
+CUST_0668,38,Australia,Basic,850,24,Debit Card,6,4,36.89,Monthly,Churned
+CUST_0669,37,Australia,Pro,2769,28,Debit Card,4,4,63.71,Annual,Active
+CUST_0670,47,Germany,Basic,655,39,Credit Card,6,1,46.17,Annual,Active
+CUST_0671,43,Canada,Pro,3172,9,Debit Card,4,4,59.22,Annual,Active
+CUST_0672,28,India,Pro,2125,24,PayPal,12,0,67.58,Monthly,Active
+CUST_0673,27,India,Basic,1378,3,Credit Card,14,3,45.64,Monthly,Churned
+CUST_0674,26,USA,Basic,767,40,PayPal,5,0,48.96,Monthly,Active
+CUST_0675,38,USA,Basic,1064,9,Debit Card,9,0,41.97,Monthly,Churned
+CUST_0676,19,Canada,Basic,943,1,PayPal,15,2,31.57,Monthly,Active
+CUST_0677,41,Australia,Basic,1429,10,PayPal,7,3,45.27,Monthly,Churned
+CUST_0678,25,Australia,Basic,659,40,Credit Card,5,0,47.61,Monthly,Churned
+CUST_0679,50,Canada,Enterprise,5293,36,PayPal,11,2,76.94,Monthly,Active
+CUST_0680,54,Canada,Basic,1286,23,UPI,10,2,56.95,Annual,Churned
+CUST_0681,45,Australia,Enterprise,5104,45,Credit Card,10,2,70.38,Monthly,Active
+CUST_0682,18,Canada,Basic,566,8,Credit Card,7,0,35.17,Annual,Active
+CUST_0683,34,India,Pro,2815,36,PayPal,5,1,53.6,Annual,Active
+CUST_0684,18,Germany,Pro,3528,33,UPI,11,2,50.27,Annual,Churned
+CUST_0685,38,UK,Enterprise,9054,14,UPI,11,0,79.89,Monthly,Active
+CUST_0686,49,Canada,Basic,1078,15,Debit Card,9,2,59.28,Annual,Active
+CUST_0687,59,Australia,Enterprise,5565,16,PayPal,3,3,81.25,Monthly,Churned
+CUST_0688,21,USA,Basic,518,18,Credit Card,4,1,24.5,Annual,Active
+CUST_0689,51,UK,Pro,3578,24,UPI,7,1,84.06,Annual,Active
+CUST_0690,59,UK,Enterprise,4542,19,UPI,8,1,76.35,Monthly,Active
+CUST_0691,44,Canada,Basic,1392,4,Debit Card,10,1,58.06,Annual,Active
+CUST_0692,37,UK,Pro,2950,10,Credit Card,10,1,54.2,Monthly,Churned
+CUST_0693,60,USA,Basic,679,47,Credit Card,4,6,46.2,Monthly,Active
+CUST_0694,27,Canada,Basic,980,11,Credit Card,4,1,40.7,Monthly,Active
+CUST_0695,23,UK,Basic,1471,23,Debit Card,5,3,44.58,Monthly,Active
+CUST_0696,37,USA,Basic,1108,46,UPI,8,4,38.74,Monthly,Active
+CUST_0697,21,Canada,Basic,622,8,UPI,6,1,34.97,Monthly,Active
+CUST_0698,37,Australia,Pro,2237,20,Credit Card,9,3,54.7,Annual,Active
+CUST_0699,47,Australia,Basic,1390,39,Credit Card,13,1,40.65,Annual,Active
+CUST_0700,44,UK,Basic,1344,45,UPI,7,1,35.85,Annual,Active
+CUST_0701,41,USA,Basic,1258,9,Credit Card,10,4,39.46,Annual,Churned
+CUST_0702,31,UK,Enterprise,5776,8,Credit Card,5,0,84.84,Annual,Active
+CUST_0703,45,USA,Pro,3790,8,Debit Card,8,1,59.23,Annual,Active
+CUST_0704,50,India,Basic,1395,4,Debit Card,9,3,43.03,Monthly,Churned
+CUST_0705,26,UK,Pro,1764,35,Credit Card,5,1,82.92,Monthly,Churned
+CUST_0706,60,Germany,Pro,3257,25,UPI,10,3,56.09,Monthly,Active
+CUST_0707,48,Australia,Pro,3636,10,PayPal,9,1,50.27,Annual,Active
+CUST_0708,54,Germany,Enterprise,5665,6,Debit Card,5,2,92.6,Annual,Active
+CUST_0709,44,India,Pro,1799,28,PayPal,7,1,70.7,Annual,Churned
+CUST_0710,35,Australia,Pro,1549,27,Credit Card,6,0,66.67,Monthly,Active
+CUST_0711,32,Australia,Basic,703,41,UPI,2,2,42.41,Monthly,Churned
+CUST_0712,41,Canada,Basic,854,23,Credit Card,10,2,42.38,Annual,Churned
+CUST_0713,18,Canada,Basic,716,35,Debit Card,7,3,25.48,Monthly,Active
+CUST_0714,18,Australia,Basic,626,7,Debit Card,9,0,34.37,Annual,Churned
+CUST_0715,38,Germany,Pro,1898,14,Credit Card,9,2,74.2,Monthly,Active
+CUST_0716,31,UK,Basic,1195,24,Debit Card,9,2,26.34,Monthly,Active
+CUST_0717,34,India,Basic,1311,44,UPI,6,3,57.33,Annual,Active
+CUST_0718,27,Canada,Basic,966,15,Debit Card,10,2,38.2,Monthly,Active
+CUST_0719,35,Canada,Basic,619,26,UPI,10,4,58.9,Monthly,Active
+CUST_0720,51,Germany,Enterprise,4462,2,PayPal,4,0,84.66,Monthly,Churned
+CUST_0721,45,Australia,Enterprise,6779,1,PayPal,5,7,82.76,Annual,Active
+CUST_0722,27,Australia,Pro,2049,29,UPI,12,3,82.97,Monthly,Churned
+CUST_0723,55,UK,Basic,1058,25,Debit Card,7,3,51.88,Annual,Active
+CUST_0724,59,USA,Pro,1601,40,Credit Card,5,3,84.94,Annual,Churned
+CUST_0725,38,UK,Enterprise,5413,21,PayPal,5,4,74.83,Monthly,Churned
+CUST_0726,27,India,Pro,3793,35,UPI,10,3,52.62,Annual,Active
+CUST_0727,49,Australia,Pro,1768,41,UPI,10,0,51.27,Monthly,Churned
+CUST_0728,18,India,Pro,1628,39,UPI,7,5,66.65,Monthly,Active
+CUST_0729,63,Germany,Basic,1072,3,PayPal,4,3,36.29,Monthly,Active
+CUST_0730,43,India,Basic,770,43,PayPal,9,2,44.4,Monthly,Active
+CUST_0731,32,India,Basic,624,3,Credit Card,8,3,20.16,Monthly,Churned
+CUST_0732,37,USA,Basic,706,42,Credit Card,5,1,35.0,Monthly,Active
+CUST_0733,53,Canada,Basic,1111,23,Debit Card,4,0,46.19,Monthly,Churned
+CUST_0734,35,USA,Basic,639,26,Debit Card,7,2,28.1,Annual,Active
+CUST_0735,51,Canada,Enterprise,4888,24,PayPal,2,1,81.17,Monthly,Churned
+CUST_0736,23,Germany,Enterprise,7395,40,Credit Card,5,3,91.1,Monthly,Active
+CUST_0737,46,USA,Pro,2686,13,Credit Card,8,3,64.67,Monthly,Active
+CUST_0738,23,Germany,Basic,1283,34,UPI,7,1,59.84,Annual,Active
+CUST_0739,37,UK,Pro,2612,12,Debit Card,7,0,79.55,Annual,Churned
+CUST_0740,41,India,Basic,1079,42,Credit Card,5,3,42.82,Annual,Active
+CUST_0741,26,UK,Pro,2825,17,PayPal,7,5,55.19,Annual,Churned
+CUST_0742,26,UK,Pro,3854,4,PayPal,8,3,73.39,Annual,Active
+CUST_0743,46,USA,Basic,1472,20,PayPal,8,1,35.02,Monthly,Churned
+CUST_0744,33,India,Basic,1021,38,UPI,13,1,40.67,Annual,Active
+CUST_0745,59,UK,Basic,588,36,UPI,8,3,57.11,Annual,Active
+CUST_0746,51,Australia,Pro,1729,9,PayPal,11,1,51.94,Annual,Active
+CUST_0747,49,Canada,Basic,1485,28,Debit Card,5,4,35.26,Annual,Active
+CUST_0748,58,UK,Enterprise,6753,27,Credit Card,7,1,94.39,Monthly,Churned
+CUST_0749,40,Australia,Basic,1459,45,Debit Card,14,4,55.56,Monthly,Active
+CUST_0750,22,Germany,Enterprise,8782,5,PayPal,10,3,78.55,Annual,Active
+CUST_0751,26,USA,Basic,1221,27,UPI,7,0,49.91,Monthly,Active
+CUST_0752,30,UK,Basic,602,11,PayPal,9,2,48.2,Monthly,Active
+CUST_0753,42,India,Basic,1291,25,UPI,8,1,40.14,Monthly,Active
+CUST_0754,26,Australia,Enterprise,6993,7,PayPal,8,0,77.97,Monthly,Active
+CUST_0755,51,India,Enterprise,4422,18,PayPal,6,2,87.78,Annual,Active
+CUST_0756,27,Canada,Pro,1922,36,Credit Card,7,1,80.15,Annual,Active
+CUST_0757,23,Australia,Enterprise,5394,30,Debit Card,10,1,96.67,Annual,Churned
+CUST_0758,27,USA,Basic,1352,26,PayPal,12,0,49.52,Annual,Active
+CUST_0759,41,UK,Enterprise,4621,18,PayPal,9,1,76.13,Annual,Active
+CUST_0760,46,Canada,Basic,1062,1,UPI,4,2,45.59,Monthly,Active
+CUST_0761,62,Germany,Pro,3469,28,Credit Card,8,4,54.67,Annual,Active
+CUST_0762,26,Australia,Basic,1032,47,Debit Card,16,1,57.44,Monthly,Active
+CUST_0763,53,UK,Pro,3479,23,UPI,8,2,63.79,Monthly,Churned
+CUST_0764,34,USA,Pro,3633,28,UPI,14,1,69.55,Annual,Churned
+CUST_0765,23,USA,Pro,1760,15,UPI,11,2,57.93,Monthly,Churned
+CUST_0766,35,India,Enterprise,5375,32,PayPal,8,2,83.94,Monthly,Churned
+CUST_0767,21,Australia,Basic,962,2,Debit Card,12,2,26.55,Annual,Churned
+CUST_0768,33,India,Basic,1282,23,Credit Card,6,3,20.55,Monthly,Churned
+CUST_0769,60,USA,Enterprise,7271,17,UPI,5,2,87.06,Annual,Active
+CUST_0770,27,Germany,Pro,3188,2,Credit Card,8,0,72.01,Monthly,Churned
+CUST_0771,48,USA,Basic,1064,38,Debit Card,3,1,37.28,Monthly,Churned
+CUST_0772,27,Australia,Basic,517,30,Debit Card,6,2,24.85,Annual,Active
+CUST_0773,58,Australia,Enterprise,7520,27,Credit Card,8,3,88.74,Monthly,Active
+CUST_0774,27,UK,Basic,1322,33,Credit Card,10,0,31.43,Annual,Churned
+CUST_0775,30,Germany,Pro,3690,38,Credit Card,7,4,68.12,Monthly,Churned
+CUST_0776,37,Australia,Pro,2744,27,Debit Card,7,0,79.4,Monthly,Active
+CUST_0777,46,Germany,Pro,1731,25,UPI,7,5,68.28,Monthly,Churned
+CUST_0778,27,Germany,Basic,936,37,PayPal,4,3,21.56,Annual,Active
+CUST_0779,35,India,Pro,3776,11,Debit Card,6,2,59.76,Monthly,Active
+CUST_0780,25,India,Pro,1540,41,PayPal,11,1,75.95,Annual,Active
+CUST_0781,58,Germany,Pro,3781,33,Credit Card,4,5,70.99,Annual,Active
+CUST_0782,45,USA,Basic,898,3,Credit Card,7,4,34.45,Monthly,Active
+CUST_0783,38,UK,Enterprise,7712,41,UPI,5,2,90.82,Monthly,Active
+CUST_0784,59,India,Pro,3148,28,Debit Card,9,0,66.22,Monthly,Churned
+CUST_0785,42,USA,Pro,1572,15,PayPal,8,0,56.64,Monthly,Active
+CUST_0786,42,UK,Basic,1061,19,Debit Card,11,2,53.64,Monthly,Active
+CUST_0787,57,UK,Pro,2222,42,Debit Card,5,3,57.52,Monthly,Active
+CUST_0788,30,India,Enterprise,7520,2,PayPal,9,2,83.05,Monthly,Churned
+CUST_0789,36,India,Pro,2341,38,PayPal,8,2,52.22,Monthly,Active
+CUST_0790,25,Germany,Pro,2361,30,Credit Card,9,1,62.95,Monthly,Active
+CUST_0791,41,Canada,Basic,714,9,PayPal,5,1,50.26,Monthly,Active
+CUST_0792,60,USA,Basic,792,5,UPI,9,4,26.82,Annual,Active
+CUST_0793,41,Canada,Enterprise,5900,32,UPI,5,1,96.02,Annual,Active
+CUST_0794,32,Australia,Basic,639,23,PayPal,6,1,50.67,Annual,Active
+CUST_0795,64,USA,Basic,737,20,Debit Card,9,0,42.61,Monthly,Churned
+CUST_0796,58,Canada,Pro,3712,47,PayPal,10,2,81.31,Monthly,Active
+CUST_0797,52,Canada,Enterprise,6968,12,Credit Card,10,2,86.01,Annual,Active
+CUST_0798,39,Australia,Pro,3303,33,Credit Card,7,1,62.54,Annual,Active
+CUST_0799,32,Germany,Enterprise,8678,35,PayPal,4,1,91.12,Annual,Active
+CUST_0800,44,Canada,Basic,1068,16,Credit Card,11,3,23.36,Monthly,Active
+CUST_0801,51,India,Basic,1082,17,PayPal,5,0,59.48,Monthly,Churned
+CUST_0802,23,USA,Pro,2428,8,PayPal,6,1,51.32,Monthly,Active
+CUST_0803,32,Germany,Pro,2698,43,UPI,5,0,59.51,Annual,Active
+CUST_0804,53,Australia,Enterprise,5070,32,UPI,8,0,83.88,Annual,Active
+CUST_0805,54,USA,Basic,548,40,Credit Card,8,1,46.44,Annual,Active
+CUST_0806,52,Canada,Basic,1051,39,UPI,3,2,21.26,Monthly,Active
+CUST_0807,45,UK,Pro,3610,12,PayPal,5,3,69.41,Monthly,Active
+CUST_0808,43,Australia,Basic,560,38,Credit Card,7,3,20.35,Monthly,Active
+CUST_0809,59,India,Basic,1368,26,Debit Card,10,4,59.42,Monthly,Active
+CUST_0810,38,India,Enterprise,6204,43,UPI,5,1,97.18,Annual,Churned
+CUST_0811,49,Australia,Enterprise,9105,23,Credit Card,4,3,71.45,Monthly,Active
+CUST_0812,22,Australia,Pro,2926,16,Credit Card,3,4,65.59,Annual,Churned
+CUST_0813,28,Germany,Basic,945,2,PayPal,5,2,29.25,Monthly,Churned
+CUST_0814,20,USA,Basic,1257,21,PayPal,7,2,48.06,Monthly,Churned
+CUST_0815,23,Germany,Basic,998,46,Credit Card,11,4,41.0,Monthly,Churned
+CUST_0816,52,USA,Enterprise,7943,1,PayPal,9,1,82.81,Monthly,Churned
+CUST_0817,39,Canada,Enterprise,8319,29,Debit Card,9,1,82.69,Monthly,Active
+CUST_0818,26,UK,Basic,1070,23,PayPal,14,3,36.96,Monthly,Churned
+CUST_0819,57,India,Pro,2299,15,Credit Card,9,3,56.72,Annual,Active
+CUST_0820,33,USA,Basic,888,47,PayPal,5,2,28.74,Monthly,Active
+CUST_0821,37,Australia,Pro,1953,33,PayPal,8,2,64.17,Annual,Active
+CUST_0822,59,Germany,Pro,3891,14,Debit Card,9,1,69.58,Monthly,Churned
+CUST_0823,49,India,Basic,1087,14,PayPal,13,0,20.48,Annual,Active
+CUST_0824,22,India,Pro,2571,34,Credit Card,12,0,62.09,Annual,Active
+CUST_0825,63,Canada,Basic,1372,21,Debit Card,13,3,43.75,Annual,Churned
+CUST_0826,44,India,Basic,984,35,Debit Card,10,0,59.11,Monthly,Active
+CUST_0827,35,UK,Enterprise,7236,24,PayPal,10,1,96.39,Annual,Active
+CUST_0828,40,Australia,Basic,568,1,UPI,5,2,52.37,Monthly,Churned
+CUST_0829,57,UK,Basic,799,16,Debit Card,13,2,37.87,Annual,Active
+CUST_0830,48,UK,Pro,2973,15,PayPal,12,4,61.85,Annual,Active
+CUST_0831,39,India,Basic,552,18,Debit Card,7,0,47.61,Annual,Churned
+CUST_0832,46,UK,Basic,1010,12,UPI,7,0,20.57,Annual,Active
+CUST_0833,26,USA,Pro,2391,32,Debit Card,4,1,66.86,Monthly,Churned
+CUST_0834,60,UK,Pro,3739,33,PayPal,3,3,78.31,Monthly,Active
+CUST_0835,37,UK,Pro,2728,47,Debit Card,4,1,73.58,Monthly,Active
+CUST_0836,46,UK,Pro,1641,13,UPI,15,0,63.51,Monthly,Active
+CUST_0837,38,USA,Enterprise,4948,38,Debit Card,10,3,73.98,Monthly,Churned
+CUST_0838,51,Australia,Pro,3271,38,PayPal,8,4,57.18,Monthly,Active
+CUST_0839,44,Germany,Pro,2981,34,Credit Card,6,2,51.79,Monthly,Churned
+CUST_0840,36,Canada,Enterprise,8805,36,PayPal,9,2,84.06,Annual,Active
+CUST_0841,22,Canada,Pro,3686,4,Credit Card,7,1,51.44,Monthly,Active
+CUST_0842,42,Germany,Basic,1268,43,UPI,9,1,46.5,Monthly,Churned
+CUST_0843,38,India,Basic,1355,45,UPI,8,1,47.68,Annual,Churned
+CUST_0844,58,Australia,Pro,2649,20,PayPal,4,2,80.36,Annual,Active
+CUST_0845,38,Australia,Pro,3306,12,Credit Card,4,1,82.76,Annual,Active
+CUST_0846,19,Australia,Basic,970,6,PayPal,8,1,43.32,Monthly,Churned
+CUST_0847,63,Canada,Basic,722,34,Credit Card,14,0,30.93,Annual,Churned
+CUST_0848,25,UK,Enterprise,6059,18,Debit Card,8,3,92.85,Annual,Active
+CUST_0849,62,UK,Basic,1440,4,Credit Card,12,1,50.04,Monthly,Churned
+CUST_0850,34,Australia,Pro,2946,18,Debit Card,6,3,55.45,Monthly,Active
+CUST_0851,21,Australia,Basic,1170,36,PayPal,8,3,29.12,Monthly,Active
+CUST_0852,61,Australia,Enterprise,8942,26,UPI,1,1,99.15,Annual,Active
+CUST_0853,52,UK,Pro,2755,35,Debit Card,8,2,53.62,Annual,Active
+CUST_0854,33,Germany,Basic,808,33,Debit Card,12,0,27.87,Annual,Active
+CUST_0855,55,Australia,Basic,982,11,Debit Card,17,3,58.17,Annual,Active
+CUST_0856,63,India,Enterprise,6670,25,PayPal,9,1,81.76,Monthly,Churned
+CUST_0857,21,Canada,Pro,3470,14,PayPal,9,2,51.04,Annual,Active
+CUST_0858,26,India,Basic,693,3,Credit Card,4,0,53.39,Monthly,Churned
+CUST_0859,64,Australia,Basic,1211,19,PayPal,9,2,58.97,Monthly,Churned
+CUST_0860,25,Australia,Pro,2988,6,Credit Card,9,3,80.16,Annual,Active
+CUST_0861,26,Australia,Enterprise,6426,12,Credit Card,5,2,94.87,Monthly,Active
+CUST_0862,20,USA,Pro,3836,46,Debit Card,10,2,67.46,Monthly,Active
+CUST_0863,35,Australia,Pro,2829,39,UPI,11,1,65.59,Annual,Churned
+CUST_0864,63,Germany,Basic,1177,41,Debit Card,6,1,43.89,Annual,Active
+CUST_0865,25,Australia,Basic,1053,20,Credit Card,10,2,56.78,Monthly,Churned
+CUST_0866,23,UK,Pro,2838,12,PayPal,10,1,73.53,Monthly,Active
+CUST_0867,25,UK,Basic,1392,45,Credit Card,15,0,21.06,Monthly,Active
+CUST_0868,53,USA,Basic,606,8,Debit Card,8,2,20.26,Monthly,Active
+CUST_0869,53,Canada,Pro,3489,10,UPI,8,2,84.71,Monthly,Churned
+CUST_0870,18,UK,Pro,2054,4,Credit Card,8,2,82.16,Annual,Churned
+CUST_0871,57,Australia,Enterprise,7554,24,PayPal,10,1,89.79,Monthly,Churned
+CUST_0872,19,Germany,Pro,2260,41,PayPal,6,3,50.13,Monthly,Active
+CUST_0873,48,India,Pro,2946,38,Debit Card,13,2,84.56,Monthly,Active
+CUST_0874,54,India,Basic,769,36,Debit Card,8,3,54.44,Monthly,Churned
+CUST_0875,18,Australia,Pro,3658,46,Credit Card,6,2,56.97,Annual,Active
+CUST_0876,19,UK,Pro,2722,9,UPI,9,0,51.94,Annual,Active
+CUST_0877,30,Germany,Enterprise,7831,35,Debit Card,9,2,76.96,Annual,Active
+CUST_0878,35,USA,Basic,884,22,PayPal,6,1,58.0,Annual,Active
+CUST_0879,51,India,Pro,2937,46,UPI,9,2,58.14,Annual,Active
+CUST_0880,62,USA,Basic,641,36,Debit Card,7,4,48.51,Annual,Active
+CUST_0881,28,Australia,Basic,1091,17,Credit Card,4,3,47.78,Monthly,Churned
+CUST_0882,50,USA,Pro,2547,3,Credit Card,6,2,62.14,Monthly,Churned
+CUST_0883,43,USA,Basic,586,31,UPI,11,1,51.94,Annual,Active
+CUST_0884,33,UK,Enterprise,8695,18,PayPal,12,4,73.4,Monthly,Active
+CUST_0885,18,USA,Basic,986,47,Debit Card,7,1,52.1,Monthly,Churned
+CUST_0886,18,India,Basic,685,33,Credit Card,7,1,42.25,Annual,Active
+CUST_0887,37,Australia,Basic,607,39,Credit Card,5,2,52.0,Annual,Active
+CUST_0888,62,Australia,Basic,1220,39,PayPal,8,3,51.89,Monthly,Active
+CUST_0889,47,USA,Pro,2779,28,Credit Card,7,2,52.5,Monthly,Churned
+CUST_0890,48,Canada,Pro,3422,23,UPI,9,2,50.94,Monthly,Churned
+CUST_0891,59,India,Basic,1156,1,UPI,9,1,36.25,Annual,Active
+CUST_0892,56,UK,Basic,895,33,Credit Card,4,4,33.39,Monthly,Active
+CUST_0893,61,Australia,Pro,2903,22,Debit Card,8,1,60.88,Annual,Active
+CUST_0894,30,Germany,Pro,3554,6,Credit Card,8,5,61.19,Monthly,Churned
+CUST_0895,19,Germany,Basic,1246,30,Credit Card,10,1,40.88,Monthly,Active
+CUST_0896,35,UK,Pro,3282,3,UPI,10,0,76.1,Monthly,Active
+CUST_0897,21,USA,Enterprise,8184,15,Debit Card,13,1,71.12,Monthly,Churned
+CUST_0898,58,Canada,Pro,2877,23,Debit Card,8,3,57.12,Monthly,Active
+CUST_0899,22,Canada,Pro,3648,18,Debit Card,14,1,55.03,Annual,Active
+CUST_0900,57,UK,Pro,1974,36,UPI,8,2,75.35,Annual,Active
+CUST_0901,21,Germany,Pro,1732,45,Debit Card,6,2,63.32,Monthly,Active
+CUST_0902,51,Germany,Basic,595,15,UPI,11,1,37.78,Monthly,Churned
+CUST_0903,63,Canada,Pro,2666,11,Credit Card,12,1,50.46,Annual,Active
+CUST_0904,29,India,Pro,3655,37,Debit Card,5,4,54.93,Monthly,Churned
+CUST_0905,63,USA,Pro,3160,2,PayPal,9,2,80.47,Annual,Churned
+CUST_0906,55,Germany,Enterprise,7926,6,PayPal,11,2,90.96,Annual,Active
+CUST_0907,45,Germany,Pro,2085,33,PayPal,7,1,80.0,Monthly,Churned
+CUST_0908,24,India,Pro,2051,9,Debit Card,15,1,61.17,Monthly,Churned
+CUST_0909,62,Germany,Pro,1927,5,PayPal,12,2,75.04,Monthly,Active
+CUST_0910,37,India,Basic,1052,35,Debit Card,10,0,45.38,Monthly,Churned
+CUST_0911,53,India,Pro,3647,8,UPI,3,2,60.07,Annual,Active
+CUST_0912,61,Germany,Basic,946,2,Debit Card,3,4,58.81,Monthly,Churned
+CUST_0913,27,India,Basic,1141,32,Credit Card,4,3,46.63,Monthly,Active
+CUST_0914,48,Canada,Pro,2694,33,UPI,3,1,63.66,Annual,Churned
+CUST_0915,54,Canada,Basic,724,41,Credit Card,8,2,50.54,Monthly,Churned
+CUST_0916,23,Australia,Basic,1032,30,PayPal,10,3,24.91,Annual,Active
+CUST_0917,50,USA,Pro,3330,32,PayPal,9,2,71.4,Annual,Active
+CUST_0918,41,Germany,Pro,2469,39,Credit Card,7,0,74.35,Monthly,Churned
+CUST_0919,36,India,Basic,729,15,Credit Card,7,3,35.36,Annual,Active
+CUST_0920,25,Germany,Basic,1350,46,PayPal,6,2,52.66,Monthly,Active
+CUST_0921,28,Canada,Basic,1287,27,Debit Card,6,1,35.29,Monthly,Churned
+CUST_0922,25,USA,Basic,794,31,Debit Card,8,3,34.68,Annual,Active
+CUST_0923,64,India,Pro,3651,13,Credit Card,11,1,75.19,Monthly,Active
+CUST_0924,61,Australia,Enterprise,4529,39,Debit Card,10,0,88.4,Monthly,Active
+CUST_0925,24,Australia,Enterprise,6098,9,PayPal,2,1,72.24,Monthly,Churned
+CUST_0926,18,Canada,Enterprise,8951,22,Credit Card,10,3,97.6,Annual,Active
+CUST_0927,31,India,Basic,956,31,PayPal,7,3,54.1,Annual,Active
+CUST_0928,20,USA,Basic,989,17,Credit Card,8,1,42.07,Annual,Active
+CUST_0929,42,Australia,Pro,3918,40,Debit Card,8,3,55.26,Annual,Active
+CUST_0930,44,Australia,Pro,2898,22,UPI,7,0,55.85,Monthly,Active
+CUST_0931,19,India,Pro,3234,4,UPI,9,4,69.78,Annual,Active
+CUST_0932,33,Germany,Basic,1113,16,Debit Card,6,1,58.27,Monthly,Active
+CUST_0933,34,Australia,Pro,1861,35,Debit Card,8,2,58.22,Annual,Active
+CUST_0934,51,UK,Pro,2953,11,Debit Card,10,3,75.95,Monthly,Active
+CUST_0935,39,India,Basic,1095,29,PayPal,7,2,22.1,Monthly,Active
+CUST_0936,59,USA,Basic,1148,45,UPI,10,2,55.08,Annual,Active
+CUST_0937,45,India,Pro,1989,19,Credit Card,12,3,76.59,Annual,Active
+CUST_0938,29,USA,Pro,2571,10,Debit Card,5,2,83.92,Annual,Active
+CUST_0939,26,UK,Enterprise,7739,3,Credit Card,7,1,80.27,Monthly,Active
+CUST_0940,33,USA,Pro,3799,34,PayPal,4,2,73.97,Monthly,Active
+CUST_0941,21,USA,Basic,1110,37,PayPal,5,1,43.7,Annual,Churned
+CUST_0942,25,Germany,Basic,657,1,Debit Card,6,2,57.94,Monthly,Churned
+CUST_0943,51,UK,Basic,1330,27,UPI,5,4,45.33,Monthly,Active
+CUST_0944,29,Germany,Enterprise,8010,43,Credit Card,14,2,92.31,Monthly,Churned
+CUST_0945,42,Germany,Basic,800,29,UPI,6,2,34.52,Annual,Active
+CUST_0946,28,Germany,Basic,1130,17,UPI,7,1,38.73,Monthly,Active
+CUST_0947,63,Germany,Basic,1141,27,PayPal,14,2,55.02,Annual,Churned
+CUST_0948,22,USA,Pro,2266,35,UPI,12,2,70.44,Annual,Active
+CUST_0949,33,Germany,Basic,1045,14,PayPal,7,0,54.03,Monthly,Active
+CUST_0950,33,Canada,Pro,3467,15,Credit Card,5,3,74.62,Annual,Active
+CUST_0951,50,India,Enterprise,4253,16,Debit Card,8,3,99.07,Monthly,Active
+CUST_0952,47,Canada,Basic,926,22,Credit Card,10,0,51.38,Monthly,Churned
+CUST_0953,58,Australia,Basic,529,41,UPI,6,2,28.15,Annual,Churned
+CUST_0954,61,Australia,Pro,3035,45,Credit Card,7,4,76.17,Annual,Active
+CUST_0955,46,USA,Pro,3359,28,PayPal,9,1,58.98,Monthly,Churned
+CUST_0956,45,UK,Basic,1319,30,Credit Card,12,1,44.61,Monthly,Churned
+CUST_0957,18,India,Basic,857,7,UPI,15,4,42.95,Monthly,Churned
+CUST_0958,39,UK,Pro,1775,2,Credit Card,6,1,84.9,Annual,Active
+CUST_0959,41,Canada,Enterprise,8033,35,Debit Card,4,1,87.09,Annual,Active
+CUST_0960,36,UK,Pro,2574,20,PayPal,1,2,72.47,Monthly,Churned
+CUST_0961,41,Canada,Basic,740,7,PayPal,4,3,34.1,Monthly,Active
+CUST_0962,39,Australia,Pro,1664,4,Credit Card,4,2,66.38,Annual,Active
+CUST_0963,20,USA,Basic,655,38,Credit Card,11,2,29.62,Monthly,Active
+CUST_0964,27,India,Basic,1152,46,Credit Card,7,2,26.18,Monthly,Active
+CUST_0965,20,UK,Basic,973,1,Debit Card,10,3,52.4,Monthly,Churned
+CUST_0966,24,USA,Basic,797,6,Credit Card,11,5,49.98,Annual,Active
+CUST_0967,34,Canada,Basic,1357,42,PayPal,9,3,23.59,Annual,Churned
+CUST_0968,60,Germany,Basic,1109,40,PayPal,9,1,40.17,Monthly,Churned
+CUST_0969,63,Germany,Pro,2336,12,PayPal,10,4,57.5,Annual,Active
+CUST_0970,38,India,Basic,1422,29,Debit Card,6,3,23.01,Monthly,Active
+CUST_0971,33,UK,Basic,874,6,UPI,8,0,50.2,Monthly,Churned
+CUST_0972,39,Germany,Basic,1156,24,PayPal,8,3,45.55,Monthly,Active
+CUST_0973,58,USA,Basic,646,32,Credit Card,6,1,41.22,Annual,Active
+CUST_0974,24,Australia,Pro,1946,27,Credit Card,9,1,80.19,Monthly,Active
+CUST_0975,39,Germany,Basic,523,20,Debit Card,6,1,59.3,Monthly,Active
+CUST_0976,37,Germany,Basic,1262,11,PayPal,8,1,44.38,Monthly,Churned
+CUST_0977,64,Australia,Pro,3946,34,Debit Card,7,1,74.5,Monthly,Active
+CUST_0978,50,India,Pro,2654,17,PayPal,9,1,82.7,Monthly,Active
+CUST_0979,22,USA,Basic,982,14,UPI,15,1,57.3,Annual,Active
+CUST_0980,33,USA,Pro,3707,26,Debit Card,7,1,65.95,Annual,Churned
+CUST_0981,57,Germany,Pro,3726,16,PayPal,12,2,68.47,Monthly,Churned
+CUST_0982,47,India,Pro,3285,41,Credit Card,13,4,62.91,Annual,Churned
+CUST_0983,29,Canada,Pro,2330,13,Credit Card,7,1,64.76,Annual,Active
+CUST_0984,23,Australia,Enterprise,8134,25,UPI,10,1,77.91,Annual,Active
+CUST_0985,44,Australia,Basic,961,34,Credit Card,3,0,24.19,Annual,Churned
+CUST_0986,42,Australia,Pro,2541,32,PayPal,10,3,58.3,Monthly,Active
+CUST_0987,48,Canada,Pro,2959,28,PayPal,13,0,69.96,Monthly,Churned
+CUST_0988,63,India,Basic,1223,32,PayPal,11,1,42.71,Monthly,Active
+CUST_0989,42,Australia,Pro,2645,4,Debit Card,7,0,60.12,Monthly,Active
+CUST_0990,55,UK,Basic,1008,44,PayPal,9,1,27.04,Annual,Active
+CUST_0991,34,USA,Enterprise,5461,28,Credit Card,11,6,99.6,Annual,Churned
+CUST_0992,63,Germany,Pro,2560,35,PayPal,11,3,79.01,Monthly,Active
+CUST_0993,31,Germany,Basic,1160,40,UPI,9,2,58.84,Annual,Active
+CUST_0994,29,India,Enterprise,7671,5,Credit Card,6,2,99.22,Annual,Churned
+CUST_0995,53,India,Basic,789,40,PayPal,7,1,34.62,Monthly,Active
+CUST_0996,19,Canada,Enterprise,9815,12,Debit Card,11,0,77.58,Annual,Active
+CUST_0997,43,Canada,Basic,1248,19,Debit Card,4,0,27.31,Annual,Active
+CUST_0998,55,Australia,Basic,1102,10,PayPal,7,1,43.14,Annual,Active
+CUST_0999,40,Germany,Pro,2743,28,Debit Card,8,2,71.57,Monthly,Active
+CUST_1000,42,India,Basic,1288,5,UPI,4,1,24.82,Annual,Churned
